@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB\FireKey.kicad_sch</source>
-    <date>14.11.2022 20:20:53</date>
+    <date>14.11.2022 20:29:18</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,7 +26,14 @@
   <components>
     <comp ref="C1">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -34,7 +41,14 @@
     </comp>
     <comp ref="C2">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -42,7 +56,14 @@
     </comp>
     <comp ref="C3">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -50,7 +71,14 @@
     </comp>
     <comp ref="C4">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -58,7 +86,14 @@
     </comp>
     <comp ref="C5">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -66,7 +101,14 @@
     </comp>
     <comp ref="C6">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -74,7 +116,14 @@
     </comp>
     <comp ref="C7">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -82,7 +131,14 @@
     </comp>
     <comp ref="C8">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -90,7 +146,14 @@
     </comp>
     <comp ref="C9">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -98,7 +161,14 @@
     </comp>
     <comp ref="C10">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,7 +176,14 @@
     </comp>
     <comp ref="C11">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -114,7 +191,14 @@
     </comp>
     <comp ref="C12">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -122,7 +206,14 @@
     </comp>
     <comp ref="C13">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -130,7 +221,14 @@
     </comp>
     <comp ref="C14">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -138,7 +236,14 @@
     </comp>
     <comp ref="C15">
       <value>100nF</value>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -146,7 +251,14 @@
     </comp>
     <comp ref="D1">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -154,7 +266,14 @@
     </comp>
     <comp ref="D2">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -162,7 +281,14 @@
     </comp>
     <comp ref="D3">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -170,7 +296,14 @@
     </comp>
     <comp ref="D4">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -178,7 +311,14 @@
     </comp>
     <comp ref="D5">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -186,7 +326,14 @@
     </comp>
     <comp ref="D6">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -194,7 +341,14 @@
     </comp>
     <comp ref="D7">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -202,7 +356,14 @@
     </comp>
     <comp ref="D8">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -210,7 +371,14 @@
     </comp>
     <comp ref="D9">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -218,7 +386,14 @@
     </comp>
     <comp ref="D10">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -226,7 +401,14 @@
     </comp>
     <comp ref="D11">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -234,7 +416,14 @@
     </comp>
     <comp ref="D12">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -242,7 +431,14 @@
     </comp>
     <comp ref="D13">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -250,7 +446,14 @@
     </comp>
     <comp ref="D14">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -258,7 +461,14 @@
     </comp>
     <comp ref="D15">
       <value>1N4148W</value>
+      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <fields>
+        <field name="Part#">C2892570</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Part#" value="C2892570"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -266,6 +476,7 @@
     </comp>
     <comp ref="H1">
       <value>Pad</value>
+      <datasheet> </datasheet>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -274,6 +485,7 @@
     </comp>
     <comp ref="H2">
       <value>Pad</value>
+      <datasheet> </datasheet>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -282,6 +494,7 @@
     </comp>
     <comp ref="H3">
       <value>Pad</value>
+      <datasheet> </datasheet>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -290,79 +503,15 @@
     </comp>
     <comp ref="H4">
       <value>Pad</value>
+      <datasheet> </datasheet>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4ffffcd4-53c4-4efc-aeac-b07632e41f87</tstamps>
     </comp>
-    <comp ref="H5">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00ea47eb-b7fe-4e59-9899-c005a429bb52</tstamps>
-    </comp>
-    <comp ref="H6">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>01a9314b-19fe-4c4b-ad38-bba0a761cc95</tstamps>
-    </comp>
-    <comp ref="H7">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0490349c-2b5c-4654-a6e6-9a9fb91475b1</tstamps>
-    </comp>
-    <comp ref="H8">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>72b72c66-18ed-4858-8021-6b8feedff159</tstamps>
-    </comp>
-    <comp ref="H9">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>07ecf694-9884-4823-b906-6739e22b1d8b</tstamps>
-    </comp>
-    <comp ref="H10">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>8d0b1fa9-386a-43f6-acee-234aee7fa899</tstamps>
-    </comp>
-    <comp ref="H11">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>8ab241e9-fc3a-4e73-81b5-b360d79d2a92</tstamps>
-    </comp>
-    <comp ref="H12">
-      <value>M3_MountingHole</value>
-      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>ff3e174f-a970-44ce-b4d8-5c37d2b3d8dc</tstamps>
-    </comp>
     <comp ref="KEY1">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -371,7 +520,6 @@
     </comp>
     <comp ref="KEY2">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -380,7 +528,6 @@
     </comp>
     <comp ref="KEY3">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -389,7 +536,6 @@
     </comp>
     <comp ref="KEY4">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -398,7 +544,6 @@
     </comp>
     <comp ref="KEY5">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -407,7 +552,6 @@
     </comp>
     <comp ref="KEY6">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -416,7 +560,6 @@
     </comp>
     <comp ref="KEY7">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -425,7 +568,6 @@
     </comp>
     <comp ref="KEY8">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -434,7 +576,6 @@
     </comp>
     <comp ref="KEY9">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -443,7 +584,6 @@
     </comp>
     <comp ref="KEY10">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -452,7 +592,6 @@
     </comp>
     <comp ref="KEY11">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -461,7 +600,6 @@
     </comp>
     <comp ref="KEY12">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -470,7 +608,6 @@
     </comp>
     <comp ref="KEY13">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -479,7 +616,6 @@
     </comp>
     <comp ref="KEY14">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -488,7 +624,6 @@
     </comp>
     <comp ref="KEY15">
       <value>SW_MX</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</datasheet>
       <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -648,7 +783,6 @@
     </comp>
     <comp ref="SW1">
       <value>SW_MEC_5E</value>
-      <datasheet>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</datasheet>
       <libsource lib="Switch" part="SW_MEC_5E" description="MEC 5E single pole normally-open tactile switch"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
@@ -657,6 +791,7 @@
     </comp>
     <comp ref="U1">
       <value>Arduino_Pro_Micro_USB-C</value>
+      <datasheet>https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/ProMicro16MHzv1.pdf</datasheet>
       <fields>
         <field name="Pinout">https://golem.hu/pic/pro_micro_pinout.jpg</field>
       </fields>
