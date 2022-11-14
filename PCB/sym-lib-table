@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Custom_MCU")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Custom_MCU.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Modules")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Custom_Modules.kicad_sym")(options "")(descr ""))
+)
