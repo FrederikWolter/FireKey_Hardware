@@ -236,7 +236,11 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Custom_MCU",
+      "Custom_Modules",
+      "Custom_Parts"
+    ]
   },
   "meta": {
     "filename": "FireKey.kicad_pro",
