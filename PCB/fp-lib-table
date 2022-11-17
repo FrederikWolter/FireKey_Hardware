@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Custom_MCU")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Footprints/Custom_MCU.pretty")(options "")(descr ""))
+  (lib (name "Custom_Module")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Footprints/Custom_Module.pretty")(options "")(descr ""))
+)
