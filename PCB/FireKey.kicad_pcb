@@ -483,7 +483,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 141348eb-edbc-4278-9bc7-2dc634de6dc4)
-    (at 185.305 -52.225)
+    (at 57.15 99.06)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -493,7 +493,7 @@
     (property "exclude_from_bom" "")
     (path "/01a9314b-19fe-4c4b-ad38-bba0a761cc95")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H6" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H6" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4bd6b71e-d0ce-4f28-af6b-3c435ca877b7)
     )
@@ -1083,7 +1083,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 43e40a64-7534-4de5-b7a6-8ea7cb3bf452)
-    (at 138.055 -11.825)
+    (at 57.15 143.51)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -1093,7 +1093,7 @@
     (property "exclude_from_bom" "")
     (path "/07ecf694-9884-4823-b906-6739e22b1d8b")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H9" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H9" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a7014881-54ec-4a50-876f-235cc30432db)
     )
@@ -1142,7 +1142,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 486c18da-ce98-4c1e-9d06-ea5a6fbbdbb4)
-    (at 66.04 58.42)
+    (at 57.15 54.61)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -1832,7 +1832,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 8e960e10-ac54-437b-96d0-4b7f164a44bc)
-    (at 207.575 -67.625)
+    (at 119.38 143.51)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -1842,7 +1842,7 @@
     (property "exclude_from_bom" "")
     (path "/72b72c66-18ed-4858-8021-6b8feedff159")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H8" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H8" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9ace69b5-2dad-4c05-8efc-715dd9623cb7)
     )
@@ -2185,7 +2185,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp 9be42b0d-73c2-43f9-8378-82ad2519824e)
-    (at 177.205 -47.425)
+    (at 196.85 22.86)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -2195,7 +2195,7 @@
     (property "exclude_from_bom" "")
     (path "/00ea47eb-b7fe-4e59-9899-c005a429bb52")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H5" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H5" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0577388d-b2e9-443e-b183-f22dc5624a31)
     )
@@ -2795,7 +2795,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp c52bf833-1715-47d3-8826-c8095b58a9d6)
-    (at 146.005 -11.825)
+    (at 149.51 54.61)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -2805,7 +2805,7 @@
     (property "exclude_from_bom" "")
     (path "/8d0b1fa9-386a-43f6-acee-234aee7fa899")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H10" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H10" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 275232d3-3d5e-41b3-85ed-958e823bd1f7)
     )
@@ -3214,7 +3214,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp e40ddb99-19bc-4baa-a879-0e26c22099f9)
-    (at 169.105 -42.625)
+    (at 119.38 54.61)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -3224,7 +3224,7 @@
     (property "exclude_from_bom" "")
     (path "/ff3e174f-a970-44ce-b4d8-5c37d2b3d8dc")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H12" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H12" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a734ca9e-7cff-4ee5-bad9-7afbc2555301)
     )
@@ -3556,7 +3556,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tedit 56D1B4CB) (tstamp f28e9425-7604-494f-8271-4f8480dd1624)
-    (at 169.105 -34.675)
+    (at 149.51 143.51)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (property "Part#" "-")
@@ -3566,7 +3566,7 @@
     (property "exclude_from_bom" "")
     (path "/8ab241e9-fc3a-4e73-81b5-b360d79d2a92")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "H11" (at 0 -4.2) (layer "F.SilkS")
+    (fp_text reference "H11" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be75ad1f-0448-4c75-a91d-80494e3f5ac5)
     )
@@ -3887,13 +3887,13 @@
     )
   )
 
-  (gr_arc locked (start 55.88 147.32) (mid 53.75868 146.44132) (end 52.88 144.32) (layer "Edge.Cuts") (width 0.2) (tstamp 123262a0-39ed-40c5-9d89-b10a4babd0fe))
-  (gr_line locked (start 55.88 50.8) (end 149.86 50.8) (layer "Edge.Cuts") (width 0.2) (tstamp 3ac9dd01-b1a0-47a2-af74-c22121cd0543))
-  (gr_line locked (start 152.86 144.32) (end 152.86 53.8) (layer "Edge.Cuts") (width 0.2) (tstamp 40f09070-6a82-4ffc-b6d6-d74d735ddf15))
-  (gr_arc locked (start 149.86 50.8) (mid 151.98132 51.67868) (end 152.86 53.8) (layer "Edge.Cuts") (width 0.2) (tstamp 7f19e3df-fbad-4e62-8279-7d54dc099d26))
-  (gr_arc locked (start 152.86 144.32) (mid 151.98132 146.44132) (end 149.86 147.32) (layer "Edge.Cuts") (width 0.2) (tstamp e95fc1e7-64a6-4c21-8eeb-47314a66cea3))
-  (gr_line locked (start 149.86 147.32) (end 55.88 147.32) (layer "Edge.Cuts") (width 0.2) (tstamp f3d41417-9cac-4baa-a0c7-ecf8a96f8f34))
-  (gr_arc locked (start 52.88 53.8) (mid 53.75868 51.67868) (end 55.88 50.8) (layer "Edge.Cuts") (width 0.2) (tstamp f75ed4a1-1d58-4ba3-8b71-692c529f086d))
-  (gr_line locked (start 52.88 53.8) (end 52.88 144.32) (layer "Edge.Cuts") (width 0.2) (tstamp f82338e9-0440-4987-a78b-0a0fd66d7deb))
+  (gr_arc locked (start 56.34 147.32) (mid 54.21868 146.44132) (end 53.34 144.32) (layer "Edge.Cuts") (width 0.2) (tstamp 123262a0-39ed-40c5-9d89-b10a4babd0fe))
+  (gr_line locked (start 56.34 50.8) (end 150.32 50.8) (layer "Edge.Cuts") (width 0.2) (tstamp 3ac9dd01-b1a0-47a2-af74-c22121cd0543))
+  (gr_line locked (start 153.32 144.32) (end 153.32 53.8) (layer "Edge.Cuts") (width 0.2) (tstamp 40f09070-6a82-4ffc-b6d6-d74d735ddf15))
+  (gr_arc locked (start 150.32 50.8) (mid 152.44132 51.67868) (end 153.32 53.8) (layer "Edge.Cuts") (width 0.2) (tstamp 7f19e3df-fbad-4e62-8279-7d54dc099d26))
+  (gr_arc locked (start 153.32 144.32) (mid 152.44132 146.44132) (end 150.32 147.32) (layer "Edge.Cuts") (width 0.2) (tstamp e95fc1e7-64a6-4c21-8eeb-47314a66cea3))
+  (gr_line locked (start 150.32 147.32) (end 56.34 147.32) (layer "Edge.Cuts") (width 0.2) (tstamp f3d41417-9cac-4baa-a0c7-ecf8a96f8f34))
+  (gr_arc locked (start 53.34 53.8) (mid 54.21868 51.67868) (end 56.34 50.8) (layer "Edge.Cuts") (width 0.2) (tstamp f75ed4a1-1d58-4ba3-8b71-692c529f086d))
+  (gr_line locked (start 53.34 53.8) (end 53.34 144.32) (layer "Edge.Cuts") (width 0.2) (tstamp f82338e9-0440-4987-a78b-0a0fd66d7deb))
 
 )

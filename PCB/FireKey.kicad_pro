@@ -348,8 +348,8 @@
     ],
     "pinned_symbol_libs": [
       "Custom_MCU",
-      "Custom_Modules",
-      "Custom_Parts"
+      "Custom_Parts",
+      "Custom_Modules"
     ]
   },
   "meta": {
