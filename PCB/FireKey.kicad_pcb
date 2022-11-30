@@ -8,7 +8,7 @@
   (title_block
     (title "FireKey PCB")
     (date "2022-11-29")
-    (rev "0.0")
+    (rev "0.1")
     (company "Daniel Czeschner & Frederik Wolter")
   )
 
@@ -5994,7 +5994,7 @@
   (gr_text "Czeschner\nWolter      2022" (at 145.415 135.89) (layer "B.SilkS") (tstamp 9c62b157-87dd-4d72-b170-13da17dc17fd)
     (effects (font (size 1.6 1.6) (thickness 0.3)) (justify left mirror))
   )
-  (gr_text "V0.0" (at 141.605 143.51) (layer "B.SilkS") (tstamp b10cc650-1e49-4c71-86e3-859232f5ec4e)
+  (gr_text "V0.1" (at 141.605 143.51) (layer "B.SilkS") (tstamp b10cc650-1e49-4c71-86e3-859232f5ec4e)
     (effects (font (size 2 2) (thickness 0.4)) (justify mirror))
   )
   (gr_text "JLCJLCJLCJLC" (at 55.88 67.31 270) (layer "B.SilkS") (tstamp bb7d3ecc-fe2f-45a5-b444-9c9ce3b29747)
