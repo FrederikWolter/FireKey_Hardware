@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB\FireKey.kicad_sch</source>
-    <date>14.11.2022 20:29:18</date>
+    <date>12/7/2022 12:23:57 PM</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>FireKey Schematic</title>
         <company>Daniel Czeschner &amp; Frederik Wolter </company>
-        <rev>0</rev>
-        <date>2022-11-13</date>
+        <rev>0.1.1</rev>
+        <date>2022-12-04</date>
         <source>FireKey.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -26,7 +26,8 @@
   <components>
     <comp ref="C1">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -41,7 +42,8 @@
     </comp>
     <comp ref="C2">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -56,7 +58,8 @@
     </comp>
     <comp ref="C3">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -71,7 +74,8 @@
     </comp>
     <comp ref="C4">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -82,11 +86,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b5526364-279a-42ec-8647-1775f763f683</tstamps>
+      <tstamps>da60b1d8-d5a0-45c0-883c-cbfbe3e68fa7</tstamps>
     </comp>
     <comp ref="C5">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -101,7 +106,8 @@
     </comp>
     <comp ref="C6">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -112,11 +118,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>da60b1d8-d5a0-45c0-883c-cbfbe3e68fa7</tstamps>
+      <tstamps>b5526364-279a-42ec-8647-1775f763f683</tstamps>
     </comp>
     <comp ref="C7">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -131,7 +138,8 @@
     </comp>
     <comp ref="C8">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -146,7 +154,8 @@
     </comp>
     <comp ref="C9">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -161,7 +170,8 @@
     </comp>
     <comp ref="C10">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -172,11 +182,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>0ac080fd-39b0-4d73-a7c3-d6f6aafe579b</tstamps>
+      <tstamps>23e8d428-eea9-4305-827c-6fc74a729c4e</tstamps>
     </comp>
     <comp ref="C11">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -191,7 +202,8 @@
     </comp>
     <comp ref="C12">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -202,11 +214,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>23e8d428-eea9-4305-827c-6fc74a729c4e</tstamps>
+      <tstamps>0ac080fd-39b0-4d73-a7c3-d6f6aafe579b</tstamps>
     </comp>
     <comp ref="C13">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -221,7 +234,8 @@
     </comp>
     <comp ref="C14">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -236,7 +250,8 @@
     </comp>
     <comp ref="C15">
       <value>100nF</value>
-      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html</datasheet>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
       <fields>
         <field name="Part#">C694249</field>
         <field name="Supplier">LCSC</field>
@@ -251,7 +266,8 @@
     </comp>
     <comp ref="D1">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -262,11 +278,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f34b1302-aa97-4813-9c4e-2a8138dd0fb2</tstamps>
+      <tstamps>bfd96171-12af-4791-ab58-317d035aa543</tstamps>
     </comp>
     <comp ref="D2">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -281,7 +298,8 @@
     </comp>
     <comp ref="D3">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -292,11 +310,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bfd96171-12af-4791-ab58-317d035aa543</tstamps>
+      <tstamps>f34b1302-aa97-4813-9c4e-2a8138dd0fb2</tstamps>
     </comp>
     <comp ref="D4">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -311,7 +330,8 @@
     </comp>
     <comp ref="D5">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -326,7 +346,8 @@
     </comp>
     <comp ref="D6">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -341,7 +362,8 @@
     </comp>
     <comp ref="D7">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -352,11 +374,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>2c55b189-9010-424a-b20d-57c20a3668f7</tstamps>
+      <tstamps>56ad33f8-70ed-48d2-b08e-3210a82c8223</tstamps>
     </comp>
     <comp ref="D8">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -371,7 +394,8 @@
     </comp>
     <comp ref="D9">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -382,11 +406,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>56ad33f8-70ed-48d2-b08e-3210a82c8223</tstamps>
+      <tstamps>2c55b189-9010-424a-b20d-57c20a3668f7</tstamps>
     </comp>
     <comp ref="D10">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -401,7 +426,8 @@
     </comp>
     <comp ref="D11">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -416,7 +442,8 @@
     </comp>
     <comp ref="D12">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -431,7 +458,8 @@
     </comp>
     <comp ref="D13">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -442,11 +470,12 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bb947126-6a07-4e0f-b955-2a81a21f7c79</tstamps>
+      <tstamps>c8ff5777-16c4-4cc5-b626-563164697ef6</tstamps>
     </comp>
     <comp ref="D14">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -461,7 +490,8 @@
     </comp>
     <comp ref="D15">
       <value>1N4148W</value>
-      <datasheet>https://www.lcsc.com/product-detail/Switching-Diode_YONGYUTAI-1N4148W_C2892570.html</datasheet>
+      <footprint>Custom_Parts:D_SOD-123</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2892570.html</datasheet>
       <fields>
         <field name="Part#">C2892570</field>
         <field name="Supplier">LCSC</field>
@@ -472,55 +502,31 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c8ff5777-16c4-4cc5-b626-563164697ef6</tstamps>
-    </comp>
-    <comp ref="H1">
-      <value>Pad</value>
-      <datasheet> </datasheet>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>7eabe092-7a8e-456f-835d-4af2c6bf6bb8</tstamps>
-    </comp>
-    <comp ref="H2">
-      <value>Pad</value>
-      <datasheet> </datasheet>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f5da3e6c-666b-40c8-860f-6659aa22b094</tstamps>
-    </comp>
-    <comp ref="H3">
-      <value>Pad</value>
-      <datasheet> </datasheet>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>33a127c5-a034-4e27-983b-9a117a985cf6</tstamps>
-    </comp>
-    <comp ref="H4">
-      <value>Pad</value>
-      <datasheet> </datasheet>
-      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4ffffcd4-53c4-4efc-aeac-b07632e41f87</tstamps>
+      <tstamps>bb947126-6a07-4e0f-b955-2a81a21f7c79</tstamps>
     </comp>
     <comp ref="KEY1">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>545b5243-f2de-45a9-a93f-da66a30d14e3</tstamps>
+      <tstamps>d548904c-51aa-41db-b20a-89c28d8fe025</tstamps>
     </comp>
     <comp ref="KEY2">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -528,15 +534,27 @@
     </comp>
     <comp ref="KEY3">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d548904c-51aa-41db-b20a-89c28d8fe025</tstamps>
+      <tstamps>545b5243-f2de-45a9-a93f-da66a30d14e3</tstamps>
     </comp>
     <comp ref="KEY4">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -544,7 +562,13 @@
     </comp>
     <comp ref="KEY5">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -552,7 +576,13 @@
     </comp>
     <comp ref="KEY6">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -560,15 +590,27 @@
     </comp>
     <comp ref="KEY7">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>61a7724b-a2af-4682-9dfa-e74357f754c4</tstamps>
+      <tstamps>20414db2-be41-4287-8faf-850134a9b55b</tstamps>
     </comp>
     <comp ref="KEY8">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -576,15 +618,27 @@
     </comp>
     <comp ref="KEY9">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>20414db2-be41-4287-8faf-850134a9b55b</tstamps>
+      <tstamps>61a7724b-a2af-4682-9dfa-e74357f754c4</tstamps>
     </comp>
     <comp ref="KEY10">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -592,7 +646,13 @@
     </comp>
     <comp ref="KEY11">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -600,7 +660,13 @@
     </comp>
     <comp ref="KEY12">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -608,15 +674,27 @@
     </comp>
     <comp ref="KEY13">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3f3b9a17-95ab-4a65-9f77-c3efd0f3e9d9</tstamps>
+      <tstamps>ad4a7ef9-8e21-49db-97bc-36bc92d2d732</tstamps>
     </comp>
     <comp ref="KEY14">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -624,16 +702,29 @@
     </comp>
     <comp ref="KEY15">
       <value>SW_MX</value>
-      <libsource lib="Switch" part="SW_MEC_5G" description="MEC 5G single pole normally-open tactile switch"/>
+      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ad4a7ef9-8e21-49db-97bc-36bc92d2d732</tstamps>
+      <tstamps>3f3b9a17-95ab-4a65-9f77-c3efd0f3e9d9</tstamps>
     </comp>
     <comp ref="LED1">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -641,8 +732,15 @@
     </comp>
     <comp ref="LED2">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -650,8 +748,15 @@
     </comp>
     <comp ref="LED3">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -659,8 +764,15 @@
     </comp>
     <comp ref="LED4">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -668,8 +780,15 @@
     </comp>
     <comp ref="LED5">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -677,8 +796,15 @@
     </comp>
     <comp ref="LED6">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -686,8 +812,15 @@
     </comp>
     <comp ref="LED7">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -695,8 +828,15 @@
     </comp>
     <comp ref="LED8">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -704,8 +844,15 @@
     </comp>
     <comp ref="LED9">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -713,8 +860,15 @@
     </comp>
     <comp ref="LED10">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -722,8 +876,15 @@
     </comp>
     <comp ref="LED11">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -731,8 +892,15 @@
     </comp>
     <comp ref="LED12">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -740,8 +908,15 @@
     </comp>
     <comp ref="LED13">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -749,8 +924,15 @@
     </comp>
     <comp ref="LED14">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -758,8 +940,15 @@
     </comp>
     <comp ref="LED15">
       <value>DY-S352818</value>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</datasheet>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -767,7 +956,15 @@
     </comp>
     <comp ref="OLED1">
       <value>OLED_1.3_4P</value>
+      <footprint>Custom_Module:OLED_1.3_4P_withM2.5Holes</footprint>
+      <datasheet>https://a.aliexpress.com/_EIxumAv</datasheet>
+      <fields>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
+      </fields>
       <libsource lib="Custom_Modules" part="OLED_1.3_4P" description=""/>
+      <property name="Part#" value="-"/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -775,15 +972,31 @@
     </comp>
     <comp ref="R1">
       <value>470</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C23179.html</datasheet>
+      <fields>
+        <field name="Part#">C23179</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Part#" value="C23179"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>16d5a170-a570-4120-8259-21d325f6b685</tstamps>
     </comp>
     <comp ref="SW1">
-      <value>SW_MEC_5E</value>
-      <libsource lib="Switch" part="SW_MEC_5E" description="MEC 5E single pole normally-open tactile switch"/>
+      <value>SW_MEC_4A</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C2888878.html</datasheet>
+      <fields>
+        <field name="Part#">C2888878</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MEC_4A" description="MEC 5E single pole normally-open tactile switch"/>
+      <property name="Part#" value="C2888878"/>
+      <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -791,12 +1004,15 @@
     </comp>
     <comp ref="U1">
       <value>Arduino_Pro_Micro_USB-C</value>
-      <datasheet>https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/ProMicro16MHzv1.pdf</datasheet>
+      <footprint>Custom_MCU:Arduino_Pro_Micro_USB-C</footprint>
+      <datasheet>https://a.aliexpress.com/_EvAm23b</datasheet>
       <fields>
-        <field name="Pinout">https://golem.hu/pic/pro_micro_pinout.jpg</field>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_MCU" part="Arduino_Pro_Micro_USB-C" description="Arduino Pro Micro mit USB-C"/>
-      <property name="Pinout" value="https://golem.hu/pic/pro_micro_pinout.jpg"/>
+      <property name="Part#" value="-"/>
+      <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -806,31 +1022,37 @@
   <libparts>
     <libpart lib="Custom_MCU" part="Arduino_Pro_Micro_USB-C">
       <description>Arduino Pro Micro mit USB-C</description>
+      <docs>https://golem.hu/pic/pro_micro_pinout.jpg</docs>
       <fields>
         <field name="Reference">U</field>
         <field name="Value">Arduino_Pro_Micro_USB-C</field>
-        <field name="Pinout">https://golem.hu/pic/pro_micro_pinout.jpg</field>
+        <field name="Datasheet">https://golem.hu/pic/pro_micro_pinout.jpg</field>
       </fields>
       <pins>
-        <pin num="" name="GND" type="power_in"/>
         <pin num="0" name="RXI" type="input"/>
         <pin num="1" name="TXO" type="output"/>
-        <pin num="2" name="2" type="bidirectional"/>
-        <pin num="3" name="3" type="bidirectional"/>
-        <pin num="4" name="4" type="bidirectional"/>
-        <pin num="5" name="5" type="bidirectional"/>
-        <pin num="6" name="6" type="bidirectional"/>
-        <pin num="7" name="7" type="bidirectional"/>
-        <pin num="8" name="8" type="bidirectional"/>
-        <pin num="9" name="9" type="bidirectional"/>
-        <pin num="10" name="10" type="bidirectional"/>
-        <pin num="14" name="14" type="bidirectional"/>
-        <pin num="15" name="15" type="bidirectional"/>
-        <pin num="16" name="16" type="bidirectional"/>
+        <pin num="2" name="D2" type="bidirectional"/>
+        <pin num="3" name="D3" type="bidirectional"/>
+        <pin num="4" name="D4" type="bidirectional"/>
+        <pin num="5" name="D5" type="bidirectional"/>
+        <pin num="6" name="D6" type="bidirectional"/>
+        <pin num="7" name="D7" type="bidirectional"/>
+        <pin num="8" name="D8" type="bidirectional"/>
+        <pin num="9" name="D9" type="bidirectional"/>
+        <pin num="10" name="D10" type="bidirectional"/>
+        <pin num="14" name="D14" type="bidirectional"/>
+        <pin num="15" name="D15" type="bidirectional"/>
+        <pin num="16" name="D16" type="bidirectional"/>
         <pin num="18" name="A0" type="bidirectional"/>
         <pin num="19" name="A1" type="bidirectional"/>
         <pin num="20" name="A2" type="bidirectional"/>
         <pin num="21" name="A3" type="bidirectional"/>
+        <pin num="90" name="GND" type="power_in"/>
+        <pin num="91" name="GND" type="power_in"/>
+        <pin num="92" name="RAW" type="power_out"/>
+        <pin num="93" name="GND" type="power_out"/>
+        <pin num="94" name="RST" type="bidirectional"/>
+        <pin num="95" name="VCC" type="power_out"/>
       </pins>
     </libpart>
     <libpart lib="Custom_Modules" part="OLED_1.3_4P">
@@ -839,25 +1061,55 @@
         <field name="Value">OLED_1.3_4P</field>
       </fields>
       <pins>
-        <pin num="1" name="VDD" type="input"/>
-        <pin num="2" name="GND" type="input"/>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
         <pin num="3" name="SCL" type="input"/>
         <pin num="4" name="SDA" type="input"/>
       </pins>
     </libpart>
     <libpart lib="Custom_Parts" part="DY-S352818{slash}6812-2T">
       <description>RGB LED with integrated Chip</description>
-      <docs>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</docs>
+      <docs>https://www.lcsc.com/product-detail/C524051.html</docs>
       <fields>
         <field name="Reference">LED</field>
         <field name="Value">DY-S352818{slash}6812-2T</field>
-        <field name="Datasheet">https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_TONYU-DY-S352818-RGBC-6812-2T_C524051.html</field>
+        <field name="Datasheet">https://www.lcsc.com/product-detail/C524051.html</field>
       </fields>
       <pins>
         <pin num="1" name="VDD" type="power_in"/>
         <pin num="2" name="DOUT" type="output"/>
         <pin num="3" name="GND" type="power_in"/>
         <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Parts" part="SW_MEC_4A">
+      <description>MEC 5E single pole normally-open tactile switch</description>
+      <footprints>
+        <fp>SW*MEC*5G*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_MEC_4A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Custom_Parts" part="SW_MX_1u">
+      <docs>https://a.aliexpress.com/_EzLLh93</docs>
+      <footprints>
+        <fp>SW*MEC*5G*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">KEY</field>
+        <field name="Value">SW_MX_1u</field>
+        <field name="Footprint">Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</field>
+        <field name="Datasheet">https://a.aliexpress.com/_EzLLh93</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Device" part="C">
@@ -938,42 +1190,6 @@
         <pin num="1" name="1" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="Switch" part="SW_MEC_5E">
-      <description>MEC 5E single pole normally-open tactile switch</description>
-      <docs>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</docs>
-      <footprints>
-        <fp>SW*MEC*5G*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">SW</field>
-        <field name="Value">SW_MEC_5E</field>
-        <field name="Datasheet">http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=1371</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="K" type="passive"/>
-        <pin num="4" name="A" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="Switch" part="SW_MEC_5G">
-      <description>MEC 5G single pole normally-open tactile switch</description>
-      <docs>http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</docs>
-      <footprints>
-        <fp>SW*MEC*5G*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">SW</field>
-        <field name="Value">SW_MEC_5G</field>
-        <field name="Datasheet">http://www.apem.com/int/index.php?controller=attachment&amp;id_attachment=488</field>
-      </fields>
-      <pins>
-        <pin num="1" name="A" type="passive"/>
-        <pin num="2" name="A" type="passive"/>
-        <pin num="3" name="B" type="passive"/>
-        <pin num="4" name="B" type="passive"/>
-      </pins>
-    </libpart>
   </libparts>
   <libraries>
     <library logical="Custom_MCU">
@@ -991,49 +1207,31 @@
     <library logical="Mechanical">
       <uri>E:\Programme\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
     </library>
-    <library logical="Switch">
-      <uri>E:\Programme\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
-    </library>
   </libraries>
   <nets>
     <net code="1" name="Col0">
-      <node ref="KEY1" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY1" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY10" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY10" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY13" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY13" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY4" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY4" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY7" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY7" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="10" pinfunction="10" pintype="bidirectional"/>
+      <node ref="KEY1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY12" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY13" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY7" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="D10" pintype="bidirectional"/>
     </net>
     <net code="2" name="Col1">
-      <node ref="KEY11" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY11" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY14" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY14" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY2" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY2" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY5" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY5" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY8" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY8" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="16" pinfunction="16" pintype="bidirectional"/>
+      <node ref="KEY11" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY14" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY8" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="D16" pintype="bidirectional"/>
     </net>
     <net code="3" name="Col2">
-      <node ref="KEY12" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY12" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY15" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY15" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY3" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY3" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY6" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY6" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="KEY9" pin="3" pinfunction="B" pintype="passive"/>
-      <node ref="KEY9" pin="4" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="14" pinfunction="14" pintype="bidirectional"/>
+      <node ref="KEY10" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY15" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY9" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="D14" pintype="bidirectional"/>
     </net>
     <net code="4" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
@@ -1051,8 +1249,6 @@
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
-      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
       <node ref="LED1" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED10" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED11" pin="3" pinfunction="GND" pintype="power_in"/>
@@ -1068,10 +1264,11 @@
       <node ref="LED7" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED8" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED9" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="OLED1" pin="2" pinfunction="GND" pintype="input"/>
-      <node ref="SW1" pin="3" pinfunction="K" pintype="passive"/>
-      <node ref="SW1" pin="4" pinfunction="A" pintype="passive"/>
-      <node ref="U1" pin="" pinfunction="GND" pintype="power_out"/>
+      <node ref="OLED1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="90" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="91" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="93" pinfunction="GND" pintype="power_out"/>
     </net>
     <net code="5" name="LEDpin">
       <node ref="R1" pin="2" pintype="passive"/>
@@ -1214,46 +1411,45 @@
     </net>
     <net code="36" name="RST">
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="U1" pin="" pinfunction="RST" pintype="bidirectional"/>
+      <node ref="U1" pin="94" pinfunction="RST" pintype="bidirectional"/>
     </net>
     <net code="37" name="Row0">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="D5" pintype="bidirectional"/>
     </net>
     <net code="38" name="Row1">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="6" pinfunction="6" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="D6" pintype="bidirectional"/>
     </net>
     <net code="39" name="Row2">
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="7" pinfunction="7" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="D7" pintype="bidirectional"/>
     </net>
     <net code="40" name="Row3">
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="8" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="D8" pintype="bidirectional"/>
     </net>
     <net code="41" name="Row4">
       <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="9" pinfunction="9" pintype="bidirectional"/>
+      <node ref="U1" pin="9" pinfunction="D9" pintype="bidirectional"/>
     </net>
     <net code="42" name="SCL">
       <node ref="OLED1" pin="3" pinfunction="SCL" pintype="input"/>
-      <node ref="U1" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="D3" pintype="bidirectional"/>
     </net>
     <net code="43" name="SDA">
       <node ref="OLED1" pin="4" pinfunction="SDA" pintype="input"/>
-      <node ref="U1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="D2" pintype="bidirectional"/>
     </net>
     <net code="44" name="VCC">
       <node ref="C1" pin="1" pintype="passive"/>
@@ -1271,8 +1467,6 @@
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
-      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
       <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED10" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED11" pin="1" pinfunction="VDD" pintype="power_in"/>
@@ -1288,35 +1482,35 @@
       <node ref="LED7" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED8" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED9" pin="1" pinfunction="VDD" pintype="power_in"/>
-      <node ref="OLED1" pin="1" pinfunction="VDD" pintype="input"/>
-      <node ref="U1" pin="" pinfunction="RAW" pintype="power_out"/>
+      <node ref="OLED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="92" pinfunction="RAW" pintype="power_out"/>
     </net>
     <net code="45" name="unconnected-(LED15-Pad2)">
       <node ref="LED15" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
     </net>
-    <net code="46" name="unconnected-(U1-Pad)">
-      <node ref="U1" pin="" pinfunction="VCC" pintype="power_out+no_connect"/>
-    </net>
-    <net code="47" name="unconnected-(U1-Pad0)">
+    <net code="46" name="unconnected-(U1-Pad0)">
       <node ref="U1" pin="0" pinfunction="RXI" pintype="input+no_connect"/>
     </net>
-    <net code="48" name="unconnected-(U1-Pad1)">
+    <net code="47" name="unconnected-(U1-Pad1)">
       <node ref="U1" pin="1" pinfunction="TXO" pintype="output+no_connect"/>
     </net>
-    <net code="49" name="unconnected-(U1-Pad4)">
-      <node ref="U1" pin="4" pinfunction="4" pintype="bidirectional+no_connect"/>
+    <net code="48" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="D4" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="50" name="unconnected-(U1-Pad15)">
-      <node ref="U1" pin="15" pinfunction="15" pintype="bidirectional+no_connect"/>
+    <net code="49" name="unconnected-(U1-Pad15)">
+      <node ref="U1" pin="15" pinfunction="D15" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="51" name="unconnected-(U1-Pad18)">
+    <net code="50" name="unconnected-(U1-Pad18)">
       <node ref="U1" pin="18" pinfunction="A0" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="52" name="unconnected-(U1-Pad19)">
+    <net code="51" name="unconnected-(U1-Pad19)">
       <node ref="U1" pin="19" pinfunction="A1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="53" name="unconnected-(U1-Pad20)">
+    <net code="52" name="unconnected-(U1-Pad20)">
       <node ref="U1" pin="20" pinfunction="A2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U1-Pad95)">
+      <node ref="U1" pin="95" pinfunction="VCC" pintype="power_out+no_connect"/>
     </net>
   </nets>
 </export>
