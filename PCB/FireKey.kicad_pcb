@@ -3853,7 +3853,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 401e9ebf-e5c3-4dca-a2e7-7418a1c9e995)
-    (at 81.28 132.715 180)
+    (at 84.201 150.622 180)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Part#" "C23179")
@@ -6138,6 +6138,126 @@
         (xy 151.13 36.83)
         (xy 253.365 36.83)
       )
+    )
+  )
+  (group "" (id 0c8eb329-8a7c-4bb5-9813-11b4b3e45d43)
+    (members
+      4b3f97e3-f692-467a-bb9a-6525d59c23be
+      707c6513-1ab0-4c7c-a189-50d838967762
+      7e8e07dc-734d-4172-bba8-4db457fe37e6
+      b4d0023a-42cd-4c26-829e-b9827198be04
+    )
+  )
+  (group "" (id 121ba5f1-8ab7-4999-a983-b4f6366fa974)
+    (members
+      46cfd767-3e17-4856-b877-8c1122b8601d
+      81f56482-9ccc-4496-adac-18be6a31b7a0
+      921472f3-4842-432a-92b4-1a425d50b379
+      c7335970-5a1a-4518-9ef3-074f1f9dd307
+    )
+  )
+  (group "" (id 2e79554f-7390-4ca6-8009-49a1f95f9d67)
+    (members
+      26228caf-224c-4274-b176-32013030fab0
+      38324b1f-14e6-478c-aced-0a1d7548ab23
+      61e89871-909b-4611-a969-187cf2a1b5b8
+      fea4620c-5fa8-4800-99d6-69ae5492dc75
+    )
+  )
+  (group "" (id 3d0f866c-5178-4d1d-8eb4-1fa3dfc1bbc8)
+    (members
+      632036c0-7358-44ae-a0b3-72e0552fbb83
+      6f5881f9-7b76-4aa6-94a5-8e8359a29d25
+      9279b8af-bd90-42a6-84d3-6ab29e055f9b
+      d1424849-b1af-43c3-a3c6-62be62da0825
+    )
+  )
+  (group "" (id 434db756-ec08-4871-a901-14f93056c3d9)
+    (members
+      4b7ab318-8dc2-4af0-90b8-7847eb0e3d18
+      5b0763ea-f79e-46d6-a76e-e23f4f372395
+      60a0e623-08f5-45cd-bcf7-0abda9977d2e
+      bd537039-61eb-449b-92f5-c42de07df635
+    )
+  )
+  (group "" (id 6a048222-94f8-4a41-8778-b92ea910cbb6)
+    (members
+      1df8dcc0-99b1-4d9e-9e96-3ccb71a2016c
+      b7f6fd0f-52f3-4d4f-9611-488a7a775906
+      d504ab76-de17-467e-a2be-6801e51282b5
+      f2a42b1f-1863-4219-bc2e-978af76eb773
+    )
+  )
+  (group "" (id af2262b5-aebd-47c9-b040-323d86d358e6)
+    (members
+      28121cb0-38e4-4f38-bb25-648309b21e2c
+      6e4398f2-582a-4c37-9d53-e9b0b35901df
+      83a0c476-5c87-4a03-9319-f0d5aa272caa
+      ed54c982-ec0f-4aef-b707-ff4224214f5d
+    )
+  )
+  (group "" (id b5407760-221f-4d78-84a1-78707285355b)
+    (members
+      098ae4ba-2664-4e44-9cad-7231985e52a1
+      4b74b7bc-3f4e-4b75-8054-e5d3fad12003
+      5a8270cd-6040-4764-9e04-a32b7e6c86c9
+      e78ab399-ca99-42ce-9cb4-4931e3cbbc71
+    )
+  )
+  (group "" (id b915ce75-a1cf-4f97-b629-b2363b97fc3d)
+    (members
+      862df89c-8478-4ac4-8603-210bda7e1e00
+      8ba72766-558c-4494-b7df-cc41d3f583e7
+      bfe171f7-9438-479c-a44c-46b3886576ce
+      ffd0198b-2d9e-47bf-8d9f-138184743185
+    )
+  )
+  (group "" (id c10fb0a5-a9c5-4c9f-940f-f8aae66fe50f)
+    (members
+      1ffe9b5f-97cd-4317-85fe-b80f4cbdc101
+      2a1a0cf2-ca65-45ce-a672-68f3b03bc522
+      5fb8700b-3a71-4a7d-8dbb-577e558bb866
+      a4919f57-c902-4a2d-9c93-9b108622b5fe
+    )
+  )
+  (group "" (id cbd88b4e-500a-4292-84e9-65deffd97771)
+    (members
+      5bb48020-8cf3-457f-8159-caa61c77082b
+      dcd99bf3-a69a-4ede-8d41-889fa46936bf
+      e2413b90-cb77-481f-bfea-c6a7d6571577
+      e374bbc5-79cf-4037-85aa-8117c14d8d89
+    )
+  )
+  (group "" (id d23a4542-1d42-4acb-8d53-6d6fc1d39a0a)
+    (members
+      3bf5c10c-f476-48bf-baac-ef17de4f26bc
+      969c9d08-53db-4615-9ba0-51aee62ad12d
+      97a6b693-5da5-476a-abdb-37fa277d7349
+      be6af58b-fb7d-4112-9096-56e1908ccb12
+    )
+  )
+  (group "" (id d5d6f00b-df92-4c9f-9eee-214b018f63b9)
+    (members
+      516d1335-f865-4f76-b5a1-0c11b8c59e94
+      5871ae55-1afa-432c-9750-d1f634fbceb9
+      a902c4cf-1eae-4278-b2be-5dcd3a3253c2
+      fdeda7c8-9130-4b94-9f3e-0c76f9b21809
+    )
+  )
+  (group "" (id fc144baf-8b79-4543-835a-01b15aa0a477)
+    (members
+      1eae6c14-31c8-4858-ba9e-bfbd76422ff9
+      96cfe663-e390-487f-b23d-89462acd432c
+      b28aef67-e94c-4ae6-9358-b96fd7ad3e79
+      f9ec8f73-3bd1-4641-b725-d155aef00eec
+    )
+  )
+  (group "" (id ff166843-d988-4a62-a92a-1700fd8a9d57)
+    (members
+      44899f2f-ae88-4c25-9ba9-df4d9a646658
+      510f5677-94b3-4b8b-ac82-c2888fd29e55
+      8ad3ed86-993d-4d82-a765-528d1203db66
+      9fe647a4-61ec-4170-99cd-7748d05132fb
     )
   )
 )
