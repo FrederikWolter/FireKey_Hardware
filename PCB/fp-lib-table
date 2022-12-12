@@ -2,4 +2,5 @@
   (lib (name "Custom_MCU")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Footprints/Custom_MCU.pretty")(options "")(descr ""))
   (lib (name "Custom_Module")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Footprints/Custom_Module.pretty")(options "")(descr ""))
   (lib (name "Custom_Parts")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Footprints/Custom_Parts.pretty")(options "")(descr ""))
+  (lib (name "Custom_FireKey")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Footprints/Custom_FireKey.pretty")(options "")(descr ""))
 )
