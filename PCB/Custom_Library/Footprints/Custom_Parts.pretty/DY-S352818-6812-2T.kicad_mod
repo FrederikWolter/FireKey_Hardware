@@ -16,9 +16,9 @@
     (tstamp 1187d8b0-889e-4c85-9501-f6d1f987d075)
   )
   (fp_poly (pts
-      (xy -1.6764 2.032)
-      (xy -2.286 2.032)
-      (xy -2.286 1.4224)
+      (xy -1.905 1.905)
+      (xy -2.413 1.905)
+      (xy -2.413 1.4224)
     ) (layer "F.SilkS") (width 0.12) (fill solid) (tstamp bb468d6f-0228-4253-8669-a223105e68cb))
   (fp_rect (start -1.6 -1.4) (end 1.6 1.4) (layer "Cmts.User") (width 0.12) (fill none) (tstamp 391fbca4-992d-4c6d-8b19-049eca5580be))
   (fp_circle (center 0 0) (end -0.762 0) (layer "Cmts.User") (width 0.12) (fill none) (tstamp 2cc471c7-0423-4e9b-b2b1-c6ebdb320474))
