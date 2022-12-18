@@ -1386,7 +1386,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid a69f003d-4b46-47d0-b956-597188dcafcc)
   )
-  (polyline (pts (xy 96.52 20.32) (xy 96.52 74.93))
+  (polyline (pts (xy 97.79 20.32) (xy 97.79 74.93))
     (stroke (width 0) (type dot) (color 16 16 16 1))
     (uuid a869f021-0df1-4286-9a78-60745160b21c)
   )
