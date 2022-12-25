@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB\FireKey.kicad_sch</source>
-    <date>12/7/2022 12:23:57 PM</date>
+    <date>12/25/2022 1:47:30 PM</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>FireKey Schematic</title>
         <company>Daniel Czeschner &amp; Frederik Wolter </company>
-        <rev>0.1.1</rev>
-        <date>2022-12-04</date>
+        <rev>1.0.0</rev>
+        <date>2022-12-08</date>
         <source>FireKey.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -24,6 +24,22 @@
     </sheet>
   </design>
   <components>
+    <comp ref="C0">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
+      <fields>
+        <field name="Part#">C694249</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Part#" value="C694249"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa45f5ed-c1b9-4ded-adf1-2cc03a458c0f</tstamps>
+    </comp>
     <comp ref="C1">
       <value>100nF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
@@ -38,7 +54,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>24032419-c99c-4697-ad1a-471797e26d6c</tstamps>
+      <tstamps>266537c3-0348-44cc-aaee-34acc697ad1f</tstamps>
     </comp>
     <comp ref="C2">
       <value>100nF</value>
@@ -54,7 +70,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6fe6e649-edec-462c-85fa-27a38412649d</tstamps>
+      <tstamps>5743e9ac-181a-4fd7-85d7-f02580ca322d</tstamps>
     </comp>
     <comp ref="C3">
       <value>100nF</value>
@@ -70,7 +86,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>5743e9ac-181a-4fd7-85d7-f02580ca322d</tstamps>
+      <tstamps>6fe6e649-edec-462c-85fa-27a38412649d</tstamps>
     </comp>
     <comp ref="C4">
       <value>100nF</value>
@@ -86,7 +102,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>da60b1d8-d5a0-45c0-883c-cbfbe3e68fa7</tstamps>
+      <tstamps>24032419-c99c-4697-ad1a-471797e26d6c</tstamps>
     </comp>
     <comp ref="C5">
       <value>100nF</value>
@@ -102,7 +118,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3a185c21-c0d1-44ce-bee2-dda0d97cdd05</tstamps>
+      <tstamps>b5526364-279a-42ec-8647-1775f763f683</tstamps>
     </comp>
     <comp ref="C6">
       <value>100nF</value>
@@ -118,7 +134,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b5526364-279a-42ec-8647-1775f763f683</tstamps>
+      <tstamps>3a185c21-c0d1-44ce-bee2-dda0d97cdd05</tstamps>
     </comp>
     <comp ref="C7">
       <value>100nF</value>
@@ -134,7 +150,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>41ef6c09-88c6-4b26-98f5-18b45e3770fe</tstamps>
+      <tstamps>da60b1d8-d5a0-45c0-883c-cbfbe3e68fa7</tstamps>
     </comp>
     <comp ref="C8">
       <value>100nF</value>
@@ -150,7 +166,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f6ca8d6a-a322-4fac-b435-f43f795afb5f</tstamps>
+      <tstamps>65b22019-de6d-4315-8ed9-8ef4853c17f9</tstamps>
     </comp>
     <comp ref="C9">
       <value>100nF</value>
@@ -166,7 +182,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>339b41f2-f9e6-492a-98b7-6fddb6cc0de9</tstamps>
+      <tstamps>634a4b2b-2c7e-47f7-8921-315b94c809b5</tstamps>
     </comp>
     <comp ref="C10">
       <value>100nF</value>
@@ -182,7 +198,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>23e8d428-eea9-4305-827c-6fc74a729c4e</tstamps>
+      <tstamps>03814f69-312c-481d-81d3-7c288cb5f591</tstamps>
     </comp>
     <comp ref="C11">
       <value>100nF</value>
@@ -198,7 +214,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>9a542428-50de-4637-8d8a-fb118eba2a87</tstamps>
+      <tstamps>bbf777a0-5894-4d6d-bead-6a5c80d2de86</tstamps>
     </comp>
     <comp ref="C12">
       <value>100nF</value>
@@ -214,7 +230,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>0ac080fd-39b0-4d73-a7c3-d6f6aafe579b</tstamps>
+      <tstamps>339b41f2-f9e6-492a-98b7-6fddb6cc0de9</tstamps>
     </comp>
     <comp ref="C13">
       <value>100nF</value>
@@ -230,7 +246,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>db576bff-0cf5-4d99-a0a2-64a48bef9ada</tstamps>
+      <tstamps>f6ca8d6a-a322-4fac-b435-f43f795afb5f</tstamps>
     </comp>
     <comp ref="C14">
       <value>100nF</value>
@@ -246,23 +262,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bd6392c1-e284-4627-91bd-dc628a8318e4</tstamps>
-    </comp>
-    <comp ref="C15">
-      <value>100nF</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/C694249.html</datasheet>
-      <fields>
-        <field name="Part#">C694249</field>
-        <field name="Supplier">LCSC</field>
-      </fields>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part#" value="C694249"/>
-      <property name="Supplier" value="LCSC"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>03813420-0adc-4a46-ae57-3dea55a27dfb</tstamps>
+      <tstamps>41ef6c09-88c6-4b26-98f5-18b45e3770fe</tstamps>
     </comp>
     <comp ref="D1">
       <value>1N4148W</value>
@@ -278,7 +278,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bfd96171-12af-4791-ab58-317d035aa543</tstamps>
+      <tstamps>fddeef18-e796-4509-aae7-c5f906197beb</tstamps>
     </comp>
     <comp ref="D2">
       <value>1N4148W</value>
@@ -294,7 +294,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e675249f-4f09-4a25-8317-8685e01ce0b9</tstamps>
+      <tstamps>755bd519-eb33-481a-87b7-de78cef3f166</tstamps>
     </comp>
     <comp ref="D3">
       <value>1N4148W</value>
@@ -326,7 +326,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>5cf8ff97-da4c-425f-b182-c10f54fbc84d</tstamps>
+      <tstamps>e675249f-4f09-4a25-8317-8685e01ce0b9</tstamps>
     </comp>
     <comp ref="D5">
       <value>1N4148W</value>
@@ -342,7 +342,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f168662a-5b19-4d9a-ab3d-22147a23e3d8</tstamps>
+      <tstamps>f74c22f9-aa14-4b9f-86c2-2192756dffc8</tstamps>
     </comp>
     <comp ref="D6">
       <value>1N4148W</value>
@@ -358,7 +358,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d546c052-c9d4-482c-a709-fea3b0da46eb</tstamps>
+      <tstamps>7ca5c2ea-b0e0-4dca-950a-0c2d2a2aa9b4</tstamps>
     </comp>
     <comp ref="D7">
       <value>1N4148W</value>
@@ -374,7 +374,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>56ad33f8-70ed-48d2-b08e-3210a82c8223</tstamps>
+      <tstamps>5cf8ff97-da4c-425f-b182-c10f54fbc84d</tstamps>
     </comp>
     <comp ref="D8">
       <value>1N4148W</value>
@@ -390,7 +390,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d9db07cd-9bf7-4e00-8079-4b4147e75576</tstamps>
+      <tstamps>f168662a-5b19-4d9a-ab3d-22147a23e3d8</tstamps>
     </comp>
     <comp ref="D9">
       <value>1N4148W</value>
@@ -406,7 +406,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>2c55b189-9010-424a-b20d-57c20a3668f7</tstamps>
+      <tstamps>142dc9e3-bfbc-4424-bc86-1b8ddc60c28c</tstamps>
     </comp>
     <comp ref="D10">
       <value>1N4148W</value>
@@ -422,7 +422,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>05a943d4-2909-487d-9570-f74f7f2bf80e</tstamps>
+      <tstamps>517cbed1-4ca2-4e92-8a57-b1a0cfda42bb</tstamps>
     </comp>
     <comp ref="D11">
       <value>1N4148W</value>
@@ -438,7 +438,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>844a8eb4-df5a-49aa-af5b-3a7033fa9aa9</tstamps>
+      <tstamps>2c55b189-9010-424a-b20d-57c20a3668f7</tstamps>
     </comp>
     <comp ref="D12">
       <value>1N4148W</value>
@@ -454,7 +454,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>158a8cd2-6b25-4b25-a142-fb60469bb9ad</tstamps>
+      <tstamps>d9db07cd-9bf7-4e00-8079-4b4147e75576</tstamps>
     </comp>
     <comp ref="D13">
       <value>1N4148W</value>
@@ -470,7 +470,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c8ff5777-16c4-4cc5-b626-563164697ef6</tstamps>
+      <tstamps>bfd96171-12af-4791-ab58-317d035aa543</tstamps>
     </comp>
     <comp ref="D14">
       <value>1N4148W</value>
@@ -486,7 +486,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>5ce8bddc-fde6-458a-a891-7fbed82f4d73</tstamps>
+      <tstamps>d546c052-c9d4-482c-a709-fea3b0da46eb</tstamps>
     </comp>
     <comp ref="D15">
       <value>1N4148W</value>
@@ -502,45 +502,51 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>bb947126-6a07-4e0f-b955-2a81a21f7c79</tstamps>
+      <tstamps>56ad33f8-70ed-48d2-b08e-3210a82c8223</tstamps>
     </comp>
     <comp ref="KEY1">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d548904c-51aa-41db-b20a-89c28d8fe025</tstamps>
+      <tstamps>11379805-2b0d-4db7-8cef-30119ba5698b</tstamps>
     </comp>
     <comp ref="KEY2">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>52f35445-eec5-4478-a79a-4fe88d9b581d</tstamps>
+      <tstamps>cd691c1a-a964-4802-a71f-76d6ecb77c7d</tstamps>
     </comp>
     <comp ref="KEY3">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -548,174 +554,198 @@
     </comp>
     <comp ref="KEY4">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52f35445-eec5-4478-a79a-4fe88d9b581d</tstamps>
+    </comp>
+    <comp ref="KEY5">
+      <value>SW_MX</value>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36ccf640-cfc1-413a-8339-3e52ac0961ec</tstamps>
+    </comp>
+    <comp ref="KEY6">
+      <value>SW_MX</value>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>066ee62a-110c-43a6-aeb5-69008b3f6d42</tstamps>
+    </comp>
+    <comp ref="KEY7">
+      <value>SW_MX</value>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>81ed3533-8b56-4f37-8ae4-fb5da50bd426</tstamps>
     </comp>
-    <comp ref="KEY5">
+    <comp ref="KEY8">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>804f64b9-3f09-4044-813e-7bb258be4b8c</tstamps>
     </comp>
-    <comp ref="KEY6">
-      <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
-      <fields>
-        <field name="Supplier">AliExpress</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
-      <property name="Supplier" value="AliExpress"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>9bd7cf42-0aea-4d72-963a-0869faa5e959</tstamps>
-    </comp>
-    <comp ref="KEY7">
-      <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
-      <fields>
-        <field name="Supplier">AliExpress</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
-      <property name="Supplier" value="AliExpress"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>20414db2-be41-4287-8faf-850134a9b55b</tstamps>
-    </comp>
-    <comp ref="KEY8">
-      <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
-      <fields>
-        <field name="Supplier">AliExpress</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
-      <property name="Supplier" value="AliExpress"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0300ad92-a4f4-4c2e-a111-47cc400e7080</tstamps>
-    </comp>
     <comp ref="KEY9">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd76eeb3-474c-4a2a-b680-fcf2c5d21069</tstamps>
+    </comp>
+    <comp ref="KEY10">
+      <value>SW_MX</value>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a933896-5ee5-400c-8cab-7a1945b4f279</tstamps>
+    </comp>
+    <comp ref="KEY11">
+      <value>SW_MX</value>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
+      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <fields>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
+      <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>61a7724b-a2af-4682-9dfa-e74357f754c4</tstamps>
     </comp>
-    <comp ref="KEY10">
-      <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
-      <fields>
-        <field name="Supplier">AliExpress</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
-      <property name="Supplier" value="AliExpress"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6f2715a1-7442-4511-b2d5-9ce145803717</tstamps>
-    </comp>
-    <comp ref="KEY11">
-      <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
-      <fields>
-        <field name="Supplier">AliExpress</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
-      <property name="Supplier" value="AliExpress"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0f87a3cd-a16f-4b79-acd5-bcc0e113c2ad</tstamps>
-    </comp>
     <comp ref="KEY12">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>68afd9f3-1e56-4c61-ada8-c01cdf3d9c94</tstamps>
+      <tstamps>0300ad92-a4f4-4c2e-a111-47cc400e7080</tstamps>
     </comp>
     <comp ref="KEY13">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ad4a7ef9-8e21-49db-97bc-36bc92d2d732</tstamps>
+      <tstamps>d548904c-51aa-41db-b20a-89c28d8fe025</tstamps>
     </comp>
     <comp ref="KEY14">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>87286855-9b58-49d8-9ce2-0d06a65e29a1</tstamps>
+      <tstamps>9bd7cf42-0aea-4d72-963a-0869faa5e959</tstamps>
     </comp>
     <comp ref="KEY15">
       <value>SW_MX</value>
-      <footprint>Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</footprint>
+      <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
       <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
       <fields>
+        <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
       <libsource lib="Custom_Parts" part="SW_MX_1u" description=""/>
       <property name="Supplier" value="AliExpress"/>
+      <property name="Part#" value="-"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3f3b9a17-95ab-4a65-9f77-c3efd0f3e9d9</tstamps>
+      <tstamps>20414db2-be41-4287-8faf-850134a9b55b</tstamps>
     </comp>
-    <comp ref="LED1">
-      <value>DY-S352818</value>
+    <comp ref="LED0">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -730,8 +760,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4f103659-5061-4406-9a90-dc727a2c6448</tstamps>
     </comp>
-    <comp ref="LED2">
-      <value>DY-S352818</value>
+    <comp ref="LED1">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -746,8 +776,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d6e11ac1-3a59-4610-9e15-35ad32f4dcd1</tstamps>
     </comp>
-    <comp ref="LED3">
-      <value>DY-S352818</value>
+    <comp ref="LED2">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -762,8 +792,72 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5bc2d16b-b886-43f1-a5b5-aa87286244cc</tstamps>
     </comp>
+    <comp ref="LED3">
+      <value>SK6812</value>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4489cec-b011-4c4a-80b4-5572742f7bb3</tstamps>
+    </comp>
     <comp ref="LED4">
-      <value>DY-S352818</value>
+      <value>SK6812</value>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e76f4e2-2532-47cf-b977-d3b4aeee35bb</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>SK6812</value>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e13b46ac-72eb-46e7-acee-ac34f89ea2f5</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>SK6812</value>
+      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
+      <fields>
+        <field name="Part#">C524051</field>
+        <field name="Supplier">LCSC</field>
+      </fields>
+      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
+      <property name="Part#" value="C524051"/>
+      <property name="Supplier" value="LCSC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56c5047e-fc28-4031-ac38-b02dffe67f3a</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -778,8 +872,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5ba916e3-f64c-479a-a897-bcdb776aea4b</tstamps>
     </comp>
-    <comp ref="LED5">
-      <value>DY-S352818</value>
+    <comp ref="LED8">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -794,8 +888,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>60e689c7-80ff-4bbd-90be-0eb5fef8bb45</tstamps>
     </comp>
-    <comp ref="LED6">
-      <value>DY-S352818</value>
+    <comp ref="LED9">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -810,8 +904,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>89123721-df59-4b66-851f-0926a2147a36</tstamps>
     </comp>
-    <comp ref="LED7">
-      <value>DY-S352818</value>
+    <comp ref="LED10">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -826,8 +920,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>34af4c44-36de-4e8b-acbe-7c63e28e7cf7</tstamps>
     </comp>
-    <comp ref="LED8">
-      <value>DY-S352818</value>
+    <comp ref="LED11">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -842,8 +936,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>70f13e8c-cb30-46f5-a72b-0ffce3e80811</tstamps>
     </comp>
-    <comp ref="LED9">
-      <value>DY-S352818</value>
+    <comp ref="LED12">
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -858,56 +952,8 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f7e94ab5-eb98-46e8-823c-2aa95e2cfdb1</tstamps>
     </comp>
-    <comp ref="LED10">
-      <value>DY-S352818</value>
-      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
-      <fields>
-        <field name="Part#">C524051</field>
-        <field name="Supplier">LCSC</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
-      <property name="Part#" value="C524051"/>
-      <property name="Supplier" value="LCSC"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e133334c-0df0-4905-acf7-a229b043a882</tstamps>
-    </comp>
-    <comp ref="LED11">
-      <value>DY-S352818</value>
-      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
-      <fields>
-        <field name="Part#">C524051</field>
-        <field name="Supplier">LCSC</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
-      <property name="Part#" value="C524051"/>
-      <property name="Supplier" value="LCSC"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>7239c721-a446-4cdd-8413-e3745b3abb72</tstamps>
-    </comp>
-    <comp ref="LED12">
-      <value>DY-S352818</value>
-      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
-      <fields>
-        <field name="Part#">C524051</field>
-        <field name="Supplier">LCSC</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
-      <property name="Part#" value="C524051"/>
-      <property name="Supplier" value="LCSC"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b40e2366-80eb-4d6f-800d-b9050099cce8</tstamps>
-    </comp>
     <comp ref="LED13">
-      <value>DY-S352818</value>
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -920,10 +966,10 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>98afaa74-abfe-499f-a6e2-4a02b3ca1714</tstamps>
+      <tstamps>25494c7f-c4ef-495e-856a-04d15fa72294</tstamps>
     </comp>
     <comp ref="LED14">
-      <value>DY-S352818</value>
+      <value>SK6812</value>
       <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
       <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
       <fields>
@@ -936,23 +982,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>52bcc4d4-6ebc-4310-a39d-260bfa812719</tstamps>
-    </comp>
-    <comp ref="LED15">
-      <value>DY-S352818</value>
-      <footprint>Custom_Parts:DY-S352818-6812-2T</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/C524051.html</datasheet>
-      <fields>
-        <field name="Part#">C524051</field>
-        <field name="Supplier">LCSC</field>
-      </fields>
-      <libsource lib="Custom_Parts" part="DY-S352818{slash}6812-2T" description="RGB LED with integrated Chip"/>
-      <property name="Part#" value="C524051"/>
-      <property name="Supplier" value="LCSC"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="FireKey.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b8add282-c6af-463a-86f3-4d5477f0d2a8</tstamps>
+      <tstamps>d263217c-cce9-44f5-b0ac-4469d6542ae8</tstamps>
     </comp>
     <comp ref="OLED1">
       <value>OLED_1.3_4P</value>
@@ -969,6 +999,22 @@
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>385f4935-3a60-4433-99a1-309385b33be9</tstamps>
+    </comp>
+    <comp ref="OLED2">
+      <value>OLED_1.3_4P</value>
+      <footprint>Custom_Module:OLED_1.3_4P_withM2.5Holes</footprint>
+      <datasheet>https://a.aliexpress.com/_EIxumAv</datasheet>
+      <fields>
+        <field name="Part#">-</field>
+        <field name="Supplier">AliExpress</field>
+      </fields>
+      <libsource lib="Custom_Modules" part="OLED_1.3_4P" description=""/>
+      <property name="Part#" value="-"/>
+      <property name="Supplier" value="AliExpress"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FireKey.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d965c48-5511-4f9b-bfde-df708654edf1</tstamps>
     </comp>
     <comp ref="R1">
       <value>470</value>
@@ -994,13 +1040,13 @@
         <field name="Part#">C2888878</field>
         <field name="Supplier">LCSC</field>
       </fields>
-      <libsource lib="Custom_Parts" part="SW_MEC_4A" description="MEC 5E single pole normally-open tactile switch"/>
+      <libsource lib="Custom_Parts" part="SW_MEC_4P" description="MEC 5E single pole normally-open tactile switch"/>
       <property name="Part#" value="C2888878"/>
       <property name="Supplier" value="LCSC"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c7b5504d-1a0d-40d4-ad19-3310d0f5f11d</tstamps>
+      <tstamps>1fe033c8-428f-428e-9cf6-809e453766e6</tstamps>
     </comp>
     <comp ref="U1">
       <value>Arduino_Pro_Micro_USB-C</value>
@@ -1020,6 +1066,15 @@
     </comp>
   </components>
   <libparts>
+    <libpart lib="Custom_FireKey" part="Logo_FireKey">
+      <docs>-</docs>
+      <fields>
+        <field name="Reference">Logo</field>
+        <field name="Value">Logo_FireKey</field>
+        <field name="Footprint">Custom_FireKey:Logo_FireKey_32x9.4</field>
+        <field name="Datasheet">-</field>
+      </fields>
+    </libpart>
     <libpart lib="Custom_MCU" part="Arduino_Pro_Micro_USB-C">
       <description>Arduino Pro Micro mit USB-C</description>
       <docs>https://golem.hu/pic/pro_micro_pinout.jpg</docs>
@@ -1082,14 +1137,14 @@
         <pin num="4" name="DIN" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="Custom_Parts" part="SW_MEC_4A">
+    <libpart lib="Custom_Parts" part="SW_MEC_4P">
       <description>MEC 5E single pole normally-open tactile switch</description>
       <footprints>
         <fp>SW*MEC*5G*</fp>
       </footprints>
       <fields>
         <field name="Reference">SW</field>
-        <field name="Value">SW_MEC_4A</field>
+        <field name="Value">SW_MEC_4P</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -1192,6 +1247,9 @@
     </libpart>
   </libparts>
   <libraries>
+    <library logical="Custom_FireKey">
+      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/Custom_Library/Custom_FireKey.kicad_sym</uri>
+    </library>
     <library logical="Custom_MCU">
       <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/Custom_Library/Custom_MCU.kicad_sym</uri>
     </library>
@@ -1210,37 +1268,43 @@
   </libraries>
   <nets>
     <net code="1" name="Col0">
-      <node ref="KEY1" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY12" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY13" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY6" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY7" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="10" pinfunction="D10" pintype="bidirectional"/>
+      <node ref="KEY14" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY15" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="D9" pintype="bidirectional"/>
     </net>
     <net code="2" name="Col1">
-      <node ref="KEY11" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY14" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY2" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY12" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY4" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY8" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="16" pinfunction="D16" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="D8" pintype="bidirectional"/>
     </net>
     <net code="3" name="Col2">
-      <node ref="KEY10" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY15" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY11" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY3" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY4" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="KEY9" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="14" pinfunction="D14" pintype="bidirectional"/>
+      <node ref="KEY7" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="D7" pintype="bidirectional"/>
     </net>
-    <net code="4" name="GND">
+    <net code="4" name="Col3">
+      <node ref="KEY10" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="D6" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Col4">
+      <node ref="KEY1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="KEY9" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="D5" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C0" pin="2" pintype="passive"/>
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
       <node ref="C12" pin="2" pintype="passive"/>
       <node ref="C13" pin="2" pintype="passive"/>
       <node ref="C14" pin="2" pintype="passive"/>
-      <node ref="C15" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
@@ -1249,13 +1313,13 @@
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="LED0" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED1" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED10" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED11" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED12" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED13" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED14" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="LED15" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED2" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED3" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED4" pin="3" pinfunction="GND" pintype="power_in"/>
@@ -1265,200 +1329,182 @@
       <node ref="LED8" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED9" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="OLED1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="OLED2" pin="2" pinfunction="GND" pintype="power_in"/>
       <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="90" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="91" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="93" pinfunction="GND" pintype="power_out"/>
     </net>
-    <net code="5" name="LEDpin">
+    <net code="7" name="LEDpin">
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="U1" pin="21" pinfunction="A3" pintype="bidirectional"/>
     </net>
-    <net code="6" name="Net-(D1-Pad2)">
+    <net code="8" name="Net-(D1-Pad2)">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY1" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY1" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="7" name="Net-(D2-Pad2)">
+    <net code="9" name="Net-(D2-Pad2)">
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY2" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY2" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="8" name="Net-(D3-Pad2)">
+    <net code="10" name="Net-(D3-Pad2)">
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY3" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY3" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="9" name="Net-(D4-Pad2)">
+    <net code="11" name="Net-(D4-Pad2)">
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY4" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY4" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="10" name="Net-(D5-Pad2)">
+    <net code="12" name="Net-(D5-Pad2)">
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY5" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY5" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="11" name="Net-(D6-Pad2)">
+    <net code="13" name="Net-(D6-Pad2)">
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY6" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY6" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="12" name="Net-(D7-Pad2)">
+    <net code="14" name="Net-(D7-Pad2)">
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY7" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY7" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="13" name="Net-(D8-Pad2)">
+    <net code="15" name="Net-(D8-Pad2)">
       <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY8" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY8" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="14" name="Net-(D9-Pad2)">
+    <net code="16" name="Net-(D9-Pad2)">
       <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY9" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY9" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="15" name="Net-(D10-Pad2)">
+    <net code="17" name="Net-(D10-Pad2)">
       <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY10" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY10" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="16" name="Net-(D11-Pad2)">
+    <net code="18" name="Net-(D11-Pad2)">
       <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY11" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY11" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="17" name="Net-(D12-Pad2)">
+    <net code="19" name="Net-(D12-Pad2)">
       <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY12" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY12" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="18" name="Net-(D13-Pad2)">
+    <net code="20" name="Net-(D13-Pad2)">
       <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY13" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY13" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(D14-Pad2)">
+    <net code="21" name="Net-(D14-Pad2)">
       <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY14" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY14" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(D15-Pad2)">
+    <net code="22" name="Net-(D15-Pad2)">
       <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="KEY15" pin="1" pinfunction="A" pintype="passive"/>
-      <node ref="KEY15" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="21" name="Net-(LED1-Pad2)">
+    <net code="23" name="Net-(LED0-Pad2)">
+      <node ref="LED0" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(LED0-Pad4)">
+      <node ref="LED0" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(LED1-Pad2)">
       <node ref="LED1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED2" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="22" name="Net-(LED1-Pad4)">
-      <node ref="LED1" pin="4" pinfunction="DIN" pintype="input"/>
-      <node ref="R1" pin="1" pintype="passive"/>
-    </net>
-    <net code="23" name="Net-(LED2-Pad2)">
+    <net code="26" name="Net-(LED2-Pad2)">
       <node ref="LED2" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED3" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="24" name="Net-(LED3-Pad2)">
+    <net code="27" name="Net-(LED3-Pad2)">
       <node ref="LED3" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED4" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="25" name="Net-(LED4-Pad2)">
+    <net code="28" name="Net-(LED4-Pad2)">
       <node ref="LED4" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED5" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="26" name="Net-(LED5-Pad2)">
+    <net code="29" name="Net-(LED5-Pad2)">
       <node ref="LED5" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED6" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="27" name="Net-(LED6-Pad2)">
+    <net code="30" name="Net-(LED6-Pad2)">
       <node ref="LED6" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED7" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="28" name="Net-(LED7-Pad2)">
+    <net code="31" name="Net-(LED7-Pad2)">
       <node ref="LED7" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED8" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="29" name="Net-(LED8-Pad2)">
+    <net code="32" name="Net-(LED8-Pad2)">
       <node ref="LED8" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED9" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="30" name="Net-(LED10-Pad2)">
+    <net code="33" name="Net-(LED10-Pad2)">
       <node ref="LED10" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED11" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="31" name="Net-(LED10-Pad4)">
+    <net code="34" name="Net-(LED10-Pad4)">
       <node ref="LED10" pin="4" pinfunction="DIN" pintype="input"/>
       <node ref="LED9" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="32" name="Net-(LED11-Pad2)">
+    <net code="35" name="Net-(LED11-Pad2)">
       <node ref="LED11" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED12" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="33" name="Net-(LED12-Pad2)">
+    <net code="36" name="Net-(LED12-Pad2)">
       <node ref="LED12" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED13" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="34" name="Net-(LED13-Pad2)">
+    <net code="37" name="Net-(LED13-Pad2)">
       <node ref="LED13" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED14" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="35" name="Net-(LED14-Pad2)">
-      <node ref="LED14" pin="2" pinfunction="DOUT" pintype="output"/>
-      <node ref="LED15" pin="4" pinfunction="DIN" pintype="input"/>
-    </net>
-    <net code="36" name="RST">
+    <net code="38" name="RST">
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="94" pinfunction="RST" pintype="bidirectional"/>
     </net>
-    <net code="37" name="Row0">
+    <net code="39" name="Row0">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="D5" pintype="bidirectional"/>
-    </net>
-    <net code="38" name="Row1">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="D10" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Row1">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="6" pinfunction="D6" pintype="bidirectional"/>
-    </net>
-    <net code="39" name="Row2">
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="7" pinfunction="D7" pintype="bidirectional"/>
+      <node ref="U1" pin="16" pinfunction="D16" pintype="bidirectional"/>
     </net>
-    <net code="40" name="Row3">
+    <net code="41" name="Row2">
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="D8" pintype="bidirectional"/>
-    </net>
-    <net code="41" name="Row4">
-      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="9" pinfunction="D9" pintype="bidirectional"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="D14" pintype="bidirectional"/>
     </net>
     <net code="42" name="SCL">
       <node ref="OLED1" pin="3" pinfunction="SCL" pintype="input"/>
+      <node ref="OLED2" pin="3" pinfunction="SCL" pintype="input"/>
       <node ref="U1" pin="3" pinfunction="D3" pintype="bidirectional"/>
     </net>
     <net code="43" name="SDA">
       <node ref="OLED1" pin="4" pinfunction="SDA" pintype="input"/>
+      <node ref="OLED2" pin="4" pinfunction="SDA" pintype="input"/>
       <node ref="U1" pin="2" pinfunction="D2" pintype="bidirectional"/>
     </net>
     <net code="44" name="VCC">
+      <node ref="C0" pin="1" pintype="passive"/>
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="C12" pin="1" pintype="passive"/>
       <node ref="C13" pin="1" pintype="passive"/>
       <node ref="C14" pin="1" pintype="passive"/>
-      <node ref="C15" pin="1" pintype="passive"/>
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
@@ -1467,13 +1513,13 @@
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="LED0" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED10" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED11" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED12" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED13" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED14" pin="1" pinfunction="VDD" pintype="power_in"/>
-      <node ref="LED15" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED2" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED3" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED4" pin="1" pinfunction="VDD" pintype="power_in"/>
@@ -1483,10 +1529,11 @@
       <node ref="LED8" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED9" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="OLED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="OLED2" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="U1" pin="92" pinfunction="RAW" pintype="power_out"/>
     </net>
-    <net code="45" name="unconnected-(LED15-Pad2)">
-      <node ref="LED15" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    <net code="45" name="unconnected-(LED14-Pad2)">
+      <node ref="LED14" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
     </net>
     <net code="46" name="unconnected-(U1-Pad0)">
       <node ref="U1" pin="0" pinfunction="RXI" pintype="input+no_connect"/>
