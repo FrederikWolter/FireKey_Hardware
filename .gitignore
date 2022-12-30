@@ -24,3 +24,6 @@ fp-info-cache
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+
+# Autodesk Inventor
+3D_Druck/OldVersions/*
