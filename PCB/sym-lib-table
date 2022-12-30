@@ -1,6 +1,6 @@
 (sym_lib_table
-  (lib (name "Custom_MCU")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Custom_MCU.kicad_sym")(options "")(descr ""))
-  (lib (name "Custom_Modules")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Custom_Modules.kicad_sym")(options "")(descr ""))
-  (lib (name "Custom_Parts")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Custom_Parts.kicad_sym")(options "")(descr ""))
-  (lib (name "Custom_FireKey")(type "KiCad")(uri "${KIPRJMOD}/Custom_Library/Custom_FireKey.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_MCU")(type "KiCad")(uri "${KIPRJMOD}/20_Custom_Libraries/Symbols/Custom_MCU.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Modules")(type "KiCad")(uri "${KIPRJMOD}/20_Custom_Libraries/Symbols/Custom_Modules.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_Parts")(type "KiCad")(uri "${KIPRJMOD}/20_Custom_Libraries/Symbols/Custom_Parts.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_FireKey")(type "KiCad")(uri "${KIPRJMOD}/20_Custom_Libraries/Symbols/Custom_FireKey.kicad_sym")(options "")(descr ""))
 )
