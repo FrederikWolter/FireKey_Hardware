@@ -26,4 +26,4 @@ fp-info-cache
 *.ses
 
 # Autodesk Inventor
-3D_Druck/OldVersions/*
+3D_printing/OldVersions/*
