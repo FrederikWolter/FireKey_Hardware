@@ -44,4 +44,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/20_Custom_Libraries/3D_Models/MX_CHERRY_KEY.STEP"
+    (offset (xyz 4.75 2.25 6))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
 )
