@@ -161,4 +161,9 @@
   (pad "93" thru_hole circle (at 7.62 -11.43) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 695814b9-7a5e-4a2c-8c0b-c1df52d678ca))
   (pad "94" thru_hole circle (at 7.62 -8.89) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp d89ffa86-c9ee-4bf3-9d58-6c2004a41cfd))
   (pad "95" thru_hole circle (at 7.62 -6.35) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 8445728d-6f7c-48f4-adbf-ad091a8e8214))
+  (model "${KIPRJMOD}/20_Custom_Libraries/3D_Models/ARDUINO_PRO_MICRO.STEP"
+    (offset (xyz -7.65 14 5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
