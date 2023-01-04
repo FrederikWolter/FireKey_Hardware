@@ -50,4 +50,9 @@
   (pad "2" thru_hole circle (at -1.27 -15) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp e89c8d4e-9382-4065-a42b-d70c1bcdc060))
   (pad "3" thru_hole circle (at 1.27 -15) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 1ddcb253-e495-459b-bdba-d6ec6878c2d7))
   (pad "4" thru_hole circle (at 3.81 -15) (size 1.778 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 28cc35c3-c439-4d5d-ab44-ec2f818cae2e))
+  (model "${KIPRJMOD}/20_Custom_Libraries/3D_Models/OLED_1.3_IIC.STEP"
+    (offset (xyz 0 15 4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
