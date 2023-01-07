@@ -6,8 +6,8 @@
 
   (title_block
     (title "FireKey Schematic")
-    (date "2022-12-08")
-    (rev "1.0.0")
+    (date "2023-01-07")
+    (rev "1.0.1")
     (company "Daniel Czeschner & Frederik Wolter ")
   )
 
@@ -4804,7 +4804,7 @@
   (symbol (lib_id "power:GND") (at 113.03 163.83 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2770dea3-4e28-4bfe-a863-991dcafa03da)
-    (property "Reference" "#PWR?" (id 0) (at 119.38 163.83 0)
+    (property "Reference" "#PWR0114" (id 0) (at 119.38 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 118.11 163.83 90))
@@ -5015,7 +5015,7 @@
   (symbol (lib_id "power:VCC") (at 113.03 156.21 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 45f0bd82-0361-4ae2-8e5d-3ab23f69af1f)
-    (property "Reference" "#PWR?" (id 0) (at 109.22 156.21 0)
+    (property "Reference" "#PWR0112" (id 0) (at 109.22 156.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 118.11 156.21 90))
@@ -5459,7 +5459,7 @@
   (symbol (lib_id "power:GND") (at 113.03 191.77 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 660821aa-1c1b-4228-b1cf-962fe44f4e1d)
-    (property "Reference" "#PWR?" (id 0) (at 119.38 191.77 0)
+    (property "Reference" "#PWR0117" (id 0) (at 119.38 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 118.11 191.77 90))
@@ -5916,7 +5916,7 @@
   (symbol (lib_id "power:VCC") (at 113.03 170.18 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c84dee4d-7317-476d-a7fe-7cf61f9ea23e)
-    (property "Reference" "#PWR?" (id 0) (at 109.22 170.18 0)
+    (property "Reference" "#PWR0116" (id 0) (at 109.22 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 118.11 170.18 90))
@@ -5971,7 +5971,7 @@
   (symbol (lib_id "power:GND") (at 113.03 177.8 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d24d9049-cf5a-44c2-b066-83f239f3f853)
-    (property "Reference" "#PWR?" (id 0) (at 119.38 177.8 0)
+    (property "Reference" "#PWR0115" (id 0) (at 119.38 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 118.11 177.8 90))
@@ -6130,7 +6130,7 @@
   (symbol (lib_id "power:VCC") (at 113.03 184.15 270) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d7a77edf-1a3a-409e-b17e-43a16abb7cf6)
-    (property "Reference" "#PWR?" (id 0) (at 109.22 184.15 0)
+    (property "Reference" "#PWR0113" (id 0) (at 109.22 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 118.11 184.15 90))
@@ -6537,6 +6537,24 @@
     (path "/4dfe50c6-7408-43b0-802a-5fe23e11cc74"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
     )
+    (path "/45f0bd82-0361-4ae2-8e5d-3ab23f69af1f"
+      (reference "#PWR0112") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/d7a77edf-1a3a-409e-b17e-43a16abb7cf6"
+      (reference "#PWR0113") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/2770dea3-4e28-4bfe-a863-991dcafa03da"
+      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/d24d9049-cf5a-44c2-b066-83f239f3f853"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c84dee4d-7317-476d-a7fe-7cf61f9ea23e"
+      (reference "#PWR0116") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/660821aa-1c1b-4228-b1cf-962fe44f4e1d"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aca224ff-ff17-4386-abdb-af6168d20e27"
       (reference "#PWR0118") (unit 1) (value "VCC") (footprint "")
     )
@@ -6548,24 +6566,6 @@
     )
     (path "/9ce6df05-390b-415e-9e51-e335a13bc1a4"
       (reference "#PWR0121") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/2770dea3-4e28-4bfe-a863-991dcafa03da"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/45f0bd82-0361-4ae2-8e5d-3ab23f69af1f"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/660821aa-1c1b-4228-b1cf-962fe44f4e1d"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/c84dee4d-7317-476d-a7fe-7cf61f9ea23e"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/d24d9049-cf5a-44c2-b066-83f239f3f853"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d7a77edf-1a3a-409e-b17e-43a16abb7cf6"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/fa45f5ed-c1b9-4ded-adf1-2cc03a458c0f"
       (reference "C0") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")

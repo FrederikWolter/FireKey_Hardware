@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "FireKey PCB")
-    (date "2022-12-12")
-    (rev "1.0.0")
+    (date "2023-01-07")
+    (rev "1.0.1")
     (company "Daniel Czeschner & Frederik Wolter")
   )
 
