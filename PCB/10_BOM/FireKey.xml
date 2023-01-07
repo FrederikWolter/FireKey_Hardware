@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB\FireKey.kicad_sch</source>
-    <date>12/25/2022 1:47:30 PM</date>
-    <tool>Eeschema (6.0.9)</tool>
+    <date>1/7/2023 11:11:08 AM</date>
+    <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>FireKey Schematic</title>
@@ -1248,16 +1248,16 @@
   </libparts>
   <libraries>
     <library logical="Custom_FireKey">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/Custom_Library/Custom_FireKey.kicad_sym</uri>
+      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_FireKey.kicad_sym</uri>
     </library>
     <library logical="Custom_MCU">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/Custom_Library/Custom_MCU.kicad_sym</uri>
+      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_MCU.kicad_sym</uri>
     </library>
     <library logical="Custom_Modules">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/Custom_Library/Custom_Modules.kicad_sym</uri>
+      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_Modules.kicad_sym</uri>
     </library>
     <library logical="Custom_Parts">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/Custom_Library/Custom_Parts.kicad_sym</uri>
+      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_Parts.kicad_sym</uri>
     </library>
     <library logical="Device">
       <uri>E:\Programme\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
