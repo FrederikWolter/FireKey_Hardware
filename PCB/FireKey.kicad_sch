@@ -6,8 +6,8 @@
 
   (title_block
     (title "FireKey Schematic")
-    (date "2023-01-07")
-    (rev "1.0.1")
+    (date "2023-01-08")
+    (rev "1.1.0")
     (company "Daniel Czeschner & Frederik Wolter ")
   )
 
