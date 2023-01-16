@@ -10,7 +10,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 08ac0500-b84e-4ad3-88f4-ef3e411362a7)
   )
-  (fp_text user "OLED_1.3\"_4P" (at 0 15.24 unlocked) (layer "F.SilkS")
+  (fp_text user "OLED_1.3_4P" (at 0 15.24 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 31a37b74-a171-4785-9050-489152a3a8be)
   )
