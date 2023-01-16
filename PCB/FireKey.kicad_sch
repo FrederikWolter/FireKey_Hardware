@@ -5636,7 +5636,7 @@
     (property "Reference" "#PWR0106" (id 0) (at 171.45 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "VCC" (id 1) (at 171.45 57.15 90))
+    (property "Value" "VCC" (id 1) (at 171.45 54.61 90))
     (property "Footprint" "" (id 2) (at 171.45 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
