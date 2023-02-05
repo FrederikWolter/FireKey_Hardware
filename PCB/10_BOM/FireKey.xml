@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB\FireKey.kicad_sch</source>
-    <date>1/7/2023 11:11:08 AM</date>
+    <source>C:\Users\dvd62\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB\FireKey.kicad_sch</source>
+    <date>2/5/2023 1:17:39 PM</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>FireKey Schematic</title>
         <company>Daniel Czeschner &amp; Frederik Wolter </company>
-        <rev>1.0.0</rev>
-        <date>2022-12-08</date>
+        <rev>1.2.1</rev>
+        <date>2023-02-05</date>
         <source>FireKey.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -507,7 +507,7 @@
     <comp ref="KEY1">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -523,7 +523,7 @@
     <comp ref="KEY2">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -539,7 +539,7 @@
     <comp ref="KEY3">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -555,7 +555,7 @@
     <comp ref="KEY4">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -571,7 +571,7 @@
     <comp ref="KEY5">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -587,7 +587,7 @@
     <comp ref="KEY6">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -603,7 +603,7 @@
     <comp ref="KEY7">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -619,7 +619,7 @@
     <comp ref="KEY8">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -635,7 +635,7 @@
     <comp ref="KEY9">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -651,7 +651,7 @@
     <comp ref="KEY10">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -667,7 +667,7 @@
     <comp ref="KEY11">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -683,7 +683,7 @@
     <comp ref="KEY12">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -699,7 +699,7 @@
     <comp ref="KEY13">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -715,7 +715,7 @@
     <comp ref="KEY14">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -731,7 +731,7 @@
     <comp ref="KEY15">
       <value>SW_MX</value>
       <footprint>Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront</footprint>
-      <datasheet>https://a.aliexpress.com/_EzLLh93</datasheet>
+      <datasheet>https://de.aliexpress.com/item/1005003981373212.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -985,36 +985,36 @@
       <tstamps>d263217c-cce9-44f5-b0ac-4469d6542ae8</tstamps>
     </comp>
     <comp ref="OLED1">
-      <value>OLED_1.3_4P</value>
-      <footprint>Custom_Module:OLED_1.3_4P_withM2.5Holes</footprint>
-      <datasheet>https://a.aliexpress.com/_EIxumAv</datasheet>
+      <value>OLED_1.3_4P_GV</value>
+      <footprint>Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront</footprint>
+      <datasheet>https://de.aliexpress.com/item/1005004131362533.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
-      <libsource lib="Custom_Modules" part="OLED_1.3_4P" description=""/>
+      <libsource lib="Custom_Modules" part="OLED_1.3_4P_GV" description=""/>
       <property name="Part#" value="-"/>
       <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>385f4935-3a60-4433-99a1-309385b33be9</tstamps>
+      <tstamps>9f8cf5da-6090-4854-adfa-2557b865b156</tstamps>
     </comp>
     <comp ref="OLED2">
-      <value>OLED_1.3_4P</value>
-      <footprint>Custom_Module:OLED_1.3_4P_withM2.5Holes</footprint>
-      <datasheet>https://a.aliexpress.com/_EIxumAv</datasheet>
+      <value>OLED_1.3_4P_GV</value>
+      <footprint>Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront</footprint>
+      <datasheet>https://de.aliexpress.com/item/1005004131362533.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
       </fields>
-      <libsource lib="Custom_Modules" part="OLED_1.3_4P" description=""/>
+      <libsource lib="Custom_Modules" part="OLED_1.3_4P_GV" description=""/>
       <property name="Part#" value="-"/>
       <property name="Supplier" value="AliExpress"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="FireKey.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>0d965c48-5511-4f9b-bfde-df708654edf1</tstamps>
+      <tstamps>eb18b67f-a13b-4a6b-98e9-0fe7a8292e07</tstamps>
     </comp>
     <comp ref="R1">
       <value>470</value>
@@ -1050,8 +1050,8 @@
     </comp>
     <comp ref="U1">
       <value>Arduino_Pro_Micro_USB-C</value>
-      <footprint>Custom_MCU:Arduino_Pro_Micro_USB-C</footprint>
-      <datasheet>https://a.aliexpress.com/_EvAm23b</datasheet>
+      <footprint>Custom_MCU:Arduino_Pro_Micro_USB-C_CleanFront</footprint>
+      <datasheet>https://de.aliexpress.com/item/1005004771851259.html</datasheet>
       <fields>
         <field name="Part#">-</field>
         <field name="Supplier">AliExpress</field>
@@ -1110,14 +1110,14 @@
         <pin num="95" name="VCC" type="power_out"/>
       </pins>
     </libpart>
-    <libpart lib="Custom_Modules" part="OLED_1.3_4P">
+    <libpart lib="Custom_Modules" part="OLED_1.3_4P_GV">
       <fields>
         <field name="Reference">OLED</field>
-        <field name="Value">OLED_1.3_4P</field>
+        <field name="Value">OLED_1.3_4P_GV</field>
       </fields>
       <pins>
-        <pin num="1" name="VDD" type="power_in"/>
-        <pin num="2" name="GND" type="power_in"/>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VCC" type="power_in"/>
         <pin num="3" name="SCL" type="input"/>
         <pin num="4" name="SDA" type="input"/>
       </pins>
@@ -1230,40 +1230,25 @@
         <field name="Datasheet">~</field>
       </fields>
     </libpart>
-    <libpart lib="Mechanical" part="MountingHole_Pad">
-      <description>Mounting Hole with connection</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>MountingHole*Pad*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">H</field>
-        <field name="Value">MountingHole_Pad</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="input"/>
-      </pins>
-    </libpart>
   </libparts>
   <libraries>
     <library logical="Custom_FireKey">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_FireKey.kicad_sym</uri>
+      <uri>C:\Users\dvd62\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_FireKey.kicad_sym</uri>
     </library>
     <library logical="Custom_MCU">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_MCU.kicad_sym</uri>
+      <uri>C:\Users\dvd62\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_MCU.kicad_sym</uri>
     </library>
     <library logical="Custom_Modules">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_Modules.kicad_sym</uri>
+      <uri>C:\Users\dvd62\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_Modules.kicad_sym</uri>
     </library>
     <library logical="Custom_Parts">
-      <uri>C:\Users\Bernt\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_Parts.kicad_sym</uri>
+      <uri>C:\Users\dvd62\OneDrive\05_Semester_5_WiSe\90_Studienarbeit\FireKey_Hardware\PCB/20_Custom_Libraries/Symbols/Custom_Parts.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>E:\Programme\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
     <library logical="Mechanical">
-      <uri>E:\Programme\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1271,31 +1256,31 @@
       <node ref="KEY13" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY14" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY15" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="9" pinfunction="D9" pintype="bidirectional"/>
+      <node ref="U1" pin="10" pinfunction="D10" pintype="bidirectional"/>
     </net>
     <net code="2" name="Col1">
       <node ref="KEY12" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY4" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY8" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="D8" pintype="bidirectional"/>
+      <node ref="U1" pin="9" pinfunction="D9" pintype="bidirectional"/>
     </net>
     <net code="3" name="Col2">
       <node ref="KEY11" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY3" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY7" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="7" pinfunction="D7" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="D8" pintype="bidirectional"/>
     </net>
     <net code="4" name="Col3">
       <node ref="KEY10" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY2" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY6" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="6" pinfunction="D6" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="D7" pintype="bidirectional"/>
     </net>
     <net code="5" name="Col4">
       <node ref="KEY1" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY5" pin="2" pinfunction="B" pintype="passive"/>
       <node ref="KEY9" pin="2" pinfunction="B" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="D5" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="D6" pintype="bidirectional"/>
     </net>
     <net code="6" name="GND">
       <node ref="C0" pin="2" pintype="passive"/>
@@ -1328,8 +1313,8 @@
       <node ref="LED7" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED8" pin="3" pinfunction="GND" pintype="power_in"/>
       <node ref="LED9" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="OLED1" pin="2" pinfunction="GND" pintype="power_in"/>
-      <node ref="OLED2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="OLED1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="OLED2" pin="1" pinfunction="GND" pintype="power_in"/>
       <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="90" pinfunction="GND" pintype="power_in"/>
       <node ref="U1" pin="91" pinfunction="GND" pintype="power_in"/>
@@ -1469,7 +1454,7 @@
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="10" pinfunction="D10" pintype="bidirectional"/>
+      <node ref="U1" pin="16" pinfunction="D16" pintype="bidirectional"/>
     </net>
     <net code="40" name="Row1">
       <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
@@ -1477,7 +1462,7 @@
       <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="16" pinfunction="D16" pintype="bidirectional"/>
+      <node ref="U1" pin="14" pinfunction="D14" pintype="bidirectional"/>
     </net>
     <net code="41" name="Row2">
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
@@ -1485,7 +1470,7 @@
       <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="U1" pin="14" pinfunction="D14" pintype="bidirectional"/>
+      <node ref="U1" pin="15" pinfunction="D15" pintype="bidirectional"/>
     </net>
     <net code="42" name="SCL">
       <node ref="OLED1" pin="3" pinfunction="SCL" pintype="input"/>
@@ -1528,8 +1513,8 @@
       <node ref="LED7" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED8" pin="1" pinfunction="VDD" pintype="power_in"/>
       <node ref="LED9" pin="1" pinfunction="VDD" pintype="power_in"/>
-      <node ref="OLED1" pin="1" pinfunction="VDD" pintype="power_in"/>
-      <node ref="OLED2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="OLED1" pin="2" pinfunction="VCC" pintype="power_in"/>
+      <node ref="OLED2" pin="2" pinfunction="VCC" pintype="power_in"/>
       <node ref="U1" pin="92" pinfunction="RAW" pintype="power_out"/>
     </net>
     <net code="45" name="unconnected-(LED14-Pad2)">
@@ -1544,8 +1529,8 @@
     <net code="48" name="unconnected-(U1-Pad4)">
       <node ref="U1" pin="4" pinfunction="D4" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="49" name="unconnected-(U1-Pad15)">
-      <node ref="U1" pin="15" pinfunction="D15" pintype="bidirectional+no_connect"/>
+    <net code="49" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="D5" pintype="bidirectional+no_connect"/>
     </net>
     <net code="50" name="unconnected-(U1-Pad18)">
       <node ref="U1" pin="18" pinfunction="A0" pintype="bidirectional+no_connect"/>
