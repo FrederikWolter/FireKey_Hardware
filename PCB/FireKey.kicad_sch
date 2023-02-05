@@ -6,8 +6,8 @@
 
   (title_block
     (title "FireKey Schematic")
-    (date "2023-01-16")
-    (rev "1.2.0")
+    (date "2023-02-05")
+    (rev "1.2.1")
     (company "Daniel Czeschner & Frederik Wolter ")
   )
 
@@ -4438,7 +4438,7 @@
     (uuid 051f7d79-ef19-4f53-afce-cb909f526a33)
     (property "Reference" "U1" (id 0) (at 233.68 50.8 0))
     (property "Value" "Arduino_Pro_Micro_USB-C" (id 1) (at 233.68 53.34 0))
-    (property "Footprint" "Custom_MCU:Arduino_Pro_Micro_USB-C" (id 2) (at 232.41 53.34 0)
+    (property "Footprint" "Custom_MCU:Arduino_Pro_Micro_USB-C_CleanFront" (id 2) (at 232.41 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://a.aliexpress.com/_EvAm23b" (id 3) (at 232.41 53.34 0)
@@ -5688,7 +5688,7 @@
     (uuid 9f8cf5da-6090-4854-adfa-2557b865b156)
     (property "Reference" "OLED1" (id 0) (at 152.4 76.835 0))
     (property "Value" "OLED_1.3_4P_GV" (id 1) (at 152.4 73.025 0))
-    (property "Footprint" "Custom_Module:OLED_1.3_4P_M2.5Holes" (id 2) (at 152.4 54.61 0)
+    (property "Footprint" "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront" (id 2) (at 152.4 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 152.4 54.61 0)
@@ -6146,7 +6146,7 @@
     (uuid eb18b67f-a13b-4a6b-98e9-0fe7a8292e07)
     (property "Reference" "OLED2" (id 0) (at 172.72 76.835 0))
     (property "Value" "OLED_1.3_4P_GV" (id 1) (at 172.72 73.025 0))
-    (property "Footprint" "Custom_Module:OLED_1.3_4P_M2.5Holes" (id 2) (at 172.72 54.61 0)
+    (property "Footprint" "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront" (id 2) (at 172.72 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 172.72 54.61 0)
@@ -6630,10 +6630,10 @@
       (reference "Logo2") (unit 1) (value "Logo_FireKey") (footprint "Custom_FireKey:Logo_FireKey_12x3.5")
     )
     (path "/9f8cf5da-6090-4854-adfa-2557b865b156"
-      (reference "OLED1") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes")
+      (reference "OLED1") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
     )
     (path "/eb18b67f-a13b-4a6b-98e9-0fe7a8292e07"
-      (reference "OLED2") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes")
+      (reference "OLED2") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
     )
     (path "/16d5a170-a570-4120-8259-21d325f6b685"
       (reference "R1") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -6642,7 +6642,7 @@
       (reference "SW1") (unit 1) (value "SW_MEC_4A") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
     )
     (path "/051f7d79-ef19-4f53-afce-cb909f526a33"
-      (reference "U1") (unit 1) (value "Arduino_Pro_Micro_USB-C") (footprint "Custom_MCU:Arduino_Pro_Micro_USB-C")
+      (reference "U1") (unit 1) (value "Arduino_Pro_Micro_USB-C") (footprint "Custom_MCU:Arduino_Pro_Micro_USB-C_CleanFront")
     )
   )
 )
