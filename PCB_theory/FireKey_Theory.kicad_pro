@@ -336,6 +336,14 @@
     [
       "fea28a73-9216-40e4-baa1-ae6d12b7a60b",
       "1_Botton_Matrix_Complete"
+    ],
+    [
+      "867f5ee4-59cf-4f77-af1a-7b833f6c8402",
+      "3_LEDs_Serial"
+    ],
+    [
+      "23c54e02-1933-44b9-a71b-11c9d678f354",
+      "3_LEDs_Single"
     ]
   ],
   "text_variables": {}
