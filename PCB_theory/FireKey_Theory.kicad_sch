@@ -2476,11 +2476,11 @@
     )
   )
 
-  (sheet (at 85.09 24.13) (size 12.7 10.16) (fields_autoplaced)
+  (sheet (at 85.09 25.4) (size 12.7 8.89) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 255 0 0.5000))
     (uuid 23c54e02-1933-44b9-a71b-11c9d678f354)
-    (property "Sheet name" "3_LEDs_Single" (id 0) (at 85.09 23.4184 0)
+    (property "Sheet name" "3_LEDs_Single" (id 0) (at 85.09 24.6884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "3_LEDs_Single.kicad_sch" (id 1) (at 85.09 34.8746 0)
@@ -2488,11 +2488,11 @@
     )
   )
 
-  (sheet (at 21.59 24.13) (size 12.7 10.16) (fields_autoplaced)
+  (sheet (at 21.59 25.4) (size 12.7 8.89) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 255 153 0 0.5000))
     (uuid 5796d21e-c689-47f8-a795-b681878fc3f0)
-    (property "Sheet name" "1_Button_Single" (id 0) (at 21.59 23.4184 0)
+    (property "Sheet name" "1_Button_Single" (id 0) (at 21.59 24.6884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "1_Button_Single.kicad_sch" (id 1) (at 21.59 34.8746 0)
@@ -2500,14 +2500,14 @@
     )
   )
 
-  (sheet (at 85.09 39.37) (size 12.7 10.16) (fields_autoplaced)
+  (sheet (at 85.09 39.37) (size 12.7 8.89) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 255 0 0.5000))
     (uuid 867f5ee4-59cf-4f77-af1a-7b833f6c8402)
     (property "Sheet name" "3_LEDs_Serial" (id 0) (at 85.09 38.6584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "3_LEDs_Serial.kicad_sch" (id 1) (at 85.09 50.1146 0)
+    (property "Sheet file" "3_LEDs_Serial.kicad_sch" (id 1) (at 85.09 48.8446 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -2520,6 +2520,18 @@
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "1_Botton_Matrix.kicad_sch" (id 1) (at 21.59 48.8446 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+  )
+
+  (sheet (at 85.09 53.34) (size 12.7 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 255 0 0.5000))
+    (uuid be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc)
+    (property "Sheet name" "3_LEDs_Complete" (id 0) (at 85.09 52.6284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "3_LEDs_Complete.kicad_sch" (id 1) (at 85.09 62.8146 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -2556,6 +2568,7 @@
     (path "/fea28a73-9216-40e4-baa1-ae6d12b7a60b" (page "5"))
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402" (page "6"))
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354" (page "7"))
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc" (page "8"))
   )
 
   (symbol_instances
@@ -2592,23 +2605,59 @@
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/114b0695-4c2c-423a-a3fb-cfa3540ec965"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/2ed61c47-4a2d-44bc-be53-3352afe34322"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354/586a16e5-b6de-46e1-a856-687262c06536"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/630e914d-db88-487f-ae6d-f2e402ef39cb"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/6cbffdaf-167d-40e2-8568-7c5ed9b53b61"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/702629f9-d1c7-4431-8d05-ede4bb34a1db"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/89838edd-4be2-4ece-bd82-a7a3a8133e95"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354/8a55d35b-9f5c-4c2b-be2e-adc8bb010978"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/91241d5c-730f-4b09-a264-9150b79320dd"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/91785aeb-3fe9-4d65-a5b9-c77ce13762a2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/9f0d7e28-a779-430e-9bab-e1c6a4326f41"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/a291e06f-8735-4218-97ff-0a8ac88f1d10"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/b7e7aacd-beba-4542-8aaf-946245714f16"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/c1de2571-1167-4aa4-b1bd-3ceba2ee053c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/f25ab0da-de18-4632-9616-b315795abd7a"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354/fbc54439-eeb4-4b31-92ed-ad308213d469"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/1f268309-24b3-4396-9e13-446f4d97a3d1"
+      (reference "C0") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/3a374453-af31-406b-a73f-f39a6475a5ab"
       (reference "C0") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/4261335f-1caa-4f71-bfa4-cff28ff03a07"
+      (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/fecc4ec9-b5f8-4973-9e00-9b45013e5b86"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -2616,8 +2665,47 @@
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/39348e89-4cd5-4007-9e6f-4cff738e98c3"
       (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/9b657e79-de7f-492d-a6f7-8dd50e50f893"
+      (reference "C2") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/17a91985-a8bb-424a-8f5a-2e4736078f72"
+      (reference "C3") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/7b052ee9-91fd-41e1-9704-d5f9bc41ebbf"
+      (reference "C4") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/b6f63e44-668a-4cb1-a28b-2d20d93ae415"
       (reference "C4") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/9b888076-f824-4ce2-9a7b-c442e2f91c23"
+      (reference "C5") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/4318077a-2cc3-4c74-a55a-511545fcaf8b"
+      (reference "C6") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/a0267704-c015-4f9a-8746-9db27be1446c"
+      (reference "C7") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/0c195bfb-26f0-417c-bd86-eb25879e527a"
+      (reference "C8") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/45fafb0d-5cfd-419b-868b-0368594a5a2d"
+      (reference "C9") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/b64a5930-cf49-401b-a568-ccfe390380d9"
+      (reference "C10") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/d73a756b-295f-4fab-b553-3341cf0b2930"
+      (reference "C11") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/a64cb26d-bb46-49e0-872b-6f845101191e"
+      (reference "C12") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/a185e4b0-1a4b-4106-9252-222bfaac3bb9"
+      (reference "C13") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/4ae67f1a-ccaf-4051-a51f-08824c9bbb91"
+      (reference "C14") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/fea28a73-9216-40e4-baa1-ae6d12b7a60b/6db4d6f7-2869-4ea4-bbec-ac147de51dd4"
       (reference "D1") (unit 1) (value "1N4148W") (footprint "Custom_Parts:D_SOD-123")
@@ -2745,8 +2833,14 @@
     (path "/fea28a73-9216-40e4-baa1-ae6d12b7a60b/b6ed002a-7738-4862-b8ad-e19bd3f77669"
       (reference "KEY15") (unit 1) (value "SW_MX") (footprint "Custom_Parts:SW_Cherry_MX_1.00u_PCB_CleanFront")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/72da65d6-fb7d-447f-9c3d-6a1341e05f32"
+      (reference "LED0") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/f74bb2c2-e2b9-4749-97fc-d2f3417390e6"
       (reference "LED0") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/16599fec-6a1d-4ca9-947e-11b4ed11dfc9"
+      (reference "LED1") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/1981aac3-38d3-46d7-85c5-41a11f44f34c"
       (reference "LED1") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
@@ -2754,10 +2848,52 @@
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/7dacd14c-8fb1-4045-8f06-f8714a6ae5db"
       (reference "LED2") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/c9bc5c83-cdf2-40ed-84b6-4560220873af"
+      (reference "LED2") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/c18aa87c-2f4b-49ba-8c97-fb0caf287b54"
+      (reference "LED3") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/345b632f-44f2-4e0b-9a2a-6e8673c28e47"
       (reference "LED4") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
     )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/f8204c08-9ca4-402d-a23d-f2184ed40a1e"
+      (reference "LED4") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/aa2449eb-f937-46e9-9dc5-238828efb4bd"
+      (reference "LED5") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/0506abcc-f376-4dde-b726-6b9eb7fa687b"
+      (reference "LED6") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/57f4fc67-c855-48c0-bcb4-ca3dd5650809"
+      (reference "LED7") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/3a6c51ef-ca25-4cba-b94d-37d522ae28e5"
+      (reference "LED8") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/eb6fdefe-99d0-4455-a740-bc9cae0fa99b"
+      (reference "LED9") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/a3051fb8-221a-4273-8c70-9f1063ec9536"
+      (reference "LED10") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/255b3081-5db4-49c5-93d5-a8dc7827e876"
+      (reference "LED11") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/c82b3e88-0a87-4bd2-bf9c-f9b7fdc1e824"
+      (reference "LED12") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/042591a0-df6c-45fd-a384-ee0bf1d8aa3d"
+      (reference "LED13") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/b38268bf-d10e-40ac-8273-351b31802c4a"
+      (reference "LED14") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/524b9dc4-a455-4e5a-9db4-40cf8f3c2530"
+      (reference "R1") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/5a81cc5b-c467-4391-b71e-3d636e64a31d"
       (reference "R1") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/5796d21e-c689-47f8-a795-b681878fc3f0/1d6b2a96-dd6d-4a75-9586-733fd6f3254b"
