@@ -2488,6 +2488,18 @@
     )
   )
 
+  (sheet (at 116.84 25.4) (size 12.7 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 255 0 255 0.5000))
+    (uuid 262cdc52-6401-4bb3-8d5f-c46b612bd77a)
+    (property "Sheet name" "4_MCU_Complete" (id 0) (at 116.84 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "4_MCU_Complete.kicad_sch" (id 1) (at 116.84 34.8746 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+  )
+
   (sheet (at 21.59 25.4) (size 12.7 8.89) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 255 153 0 0.5000))
@@ -2582,6 +2594,7 @@
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354" (page "7"))
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc" (page "8"))
     (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb" (page "9"))
+    (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a" (page "10"))
   )
 
   (symbol_instances
@@ -2630,6 +2643,9 @@
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/2ed61c47-4a2d-44bc-be53-3352afe34322"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a/2f32e398-bdc6-4fe4-a01c-53049449f922"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354/586a16e5-b6de-46e1-a856-687262c06536"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
@@ -2641,6 +2657,9 @@
     )
     (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/6d46e50b-a506-4d0f-a8fb-d1bb8e4fb5c3"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a/6f0e2a8a-e91d-4576-a886-6d37d4bbba97"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/702629f9-d1c7-4431-8d05-ede4bb34a1db"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -2663,10 +2682,16 @@
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/a291e06f-8735-4218-97ff-0a8ac88f1d10"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a/b1d91dd3-abe4-4c31-a968-0f23ce233707"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/b7e7aacd-beba-4542-8aaf-946245714f16"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/c1de2571-1167-4aa4-b1bd-3ceba2ee053c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a/cb8f9b64-6c2f-4c95-b87a-01dd6fa5192d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/f25ab0da-de18-4632-9616-b315795abd7a"
@@ -2916,10 +2941,10 @@
       (reference "LED14") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
     )
     (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/d1ff457c-8822-4e4a-aded-30b946759504"
-      (reference "OLED?") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
+      (reference "OLED1") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
     )
     (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/e58e319f-122a-49ea-9985-2d1669a943bc"
-      (reference "OLED?") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
+      (reference "OLED2") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/524b9dc4-a455-4e5a-9db4-40cf8f3c2530"
       (reference "R1") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -3007,6 +3032,9 @@
     )
     (path "/edf8e0cd-77bf-40bd-91ed-3a57f3e9625c/fec038a6-6760-49c4-a6f1-a03e0784a6fc"
       (reference "SW?") (unit 1) (value "SW_SPST") (footprint "")
+    )
+    (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a/4959e9d8-e2fa-409d-9377-5b188ba05792"
+      (reference "U1") (unit 1) (value "Arduino_Pro_Micro_USB-C") (footprint "Custom_MCU:Arduino_Pro_Micro_USB-C_CleanFront")
     )
   )
 )

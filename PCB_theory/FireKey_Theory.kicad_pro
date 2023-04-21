@@ -352,6 +352,10 @@
     [
       "8cb60a14-ef8a-44df-a0e8-c62f829ba9cb",
       "2_OLED_Complete"
+    ],
+    [
+      "262cdc52-6401-4bb3-8d5f-c46b612bd77a",
+      "4_MCU_Complete"
     ]
   ],
   "text_variables": {}
