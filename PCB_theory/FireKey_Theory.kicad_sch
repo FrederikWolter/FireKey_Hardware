@@ -2512,6 +2512,18 @@
     )
   )
 
+  (sheet (at 53.34 25.4) (size 12.7 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 255 0.5000))
+    (uuid 8cb60a14-ef8a-44df-a0e8-c62f829ba9cb)
+    (property "Sheet name" "2_OLED_Complete" (id 0) (at 53.34 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "2_OLED_Complete.kicad_sch" (id 1) (at 53.34 34.8746 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+  )
+
   (sheet (at 21.59 39.37) (size 12.7 8.89) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 255 153 0 0.5000))
@@ -2569,6 +2581,7 @@
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402" (page "6"))
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354" (page "7"))
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc" (page "8"))
+    (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb" (page "9"))
   )
 
   (symbol_instances
@@ -2602,8 +2615,17 @@
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/028279b0-3f7f-492d-97fe-10b67d92f285"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/03073b22-b733-4351-b56e-dab8c6c937c2"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/09be9e90-f823-4835-9a83-d2883bd9cbe4"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/114b0695-4c2c-423a-a3fb-cfa3540ec965"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/193d50ae-8c4f-4890-9de4-7cd4a9746aab"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/2ed61c47-4a2d-44bc-be53-3352afe34322"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -2616,6 +2638,9 @@
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/6cbffdaf-167d-40e2-8568-7c5ed9b53b61"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/6d46e50b-a506-4d0f-a8fb-d1bb8e4fb5c3"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/702629f9-d1c7-4431-8d05-ede4bb34a1db"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -2889,6 +2914,12 @@
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/b38268bf-d10e-40ac-8273-351b31802c4a"
       (reference "LED14") (unit 1) (value "SK6812") (footprint "Custom_Parts:DY-S352818-6812-2T")
+    )
+    (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/d1ff457c-8822-4e4a-aded-30b946759504"
+      (reference "OLED?") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
+    )
+    (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb/e58e319f-122a-49ea-9985-2d1669a943bc"
+      (reference "OLED?") (unit 1) (value "OLED_1.3_4P_GV") (footprint "Custom_Module:OLED_1.3_4P_M2.5Holes_CleanFront")
     )
     (path "/867f5ee4-59cf-4f77-af1a-7b833f6c8402/524b9dc4-a455-4e5a-9db4-40cf8f3c2530"
       (reference "R1") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
