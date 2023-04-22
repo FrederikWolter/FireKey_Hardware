@@ -2476,6 +2476,18 @@
     )
   )
 
+  (sheet (at 148.59 25.4) (size 12.7 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.5000))
+    (uuid 023a82a5-dc98-40ff-97a4-4af55166cbb8)
+    (property "Sheet name" "5_Bounce" (id 0) (at 148.59 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "5_Bounce.kicad_sch" (id 1) (at 148.59 34.8746 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+  )
+
   (sheet (at 85.09 25.4) (size 12.7 8.89) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 255 0 0.5000))
@@ -2595,6 +2607,7 @@
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc" (page "8"))
     (path "/8cb60a14-ef8a-44df-a0e8-c62f829ba9cb" (page "9"))
     (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a" (page "10"))
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8" (page "11"))
   )
 
   (symbol_instances
@@ -2646,10 +2659,16 @@
     (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a/2f32e398-bdc6-4fe4-a01c-53049449f922"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/45c6e1ef-4cbf-4962-8196-d3df3bf65266"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/23c54e02-1933-44b9-a71b-11c9d678f354/586a16e5-b6de-46e1-a856-687262c06536"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/630e914d-db88-487f-ae6d-f2e402ef39cb"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/6be91483-6bb0-4285-ad0b-e21e9d8d1497"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/6cbffdaf-167d-40e2-8568-7c5ed9b53b61"
@@ -2675,6 +2694,9 @@
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/91785aeb-3fe9-4d65-a5b9-c77ce13762a2"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/9ecf534d-29b7-4061-bf7c-51deced1d19e"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/9f0d7e28-a779-430e-9bab-e1c6a4326f41"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
@@ -2952,6 +2974,12 @@
     (path "/be4fbbf8-ca7b-4e15-bf90-f58e61bbadbc/5a81cc5b-c467-4391-b71e-3d636e64a31d"
       (reference "R1") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/4f1a195a-30ff-447d-9ccf-5335c8e453ae"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/8c5ff4b1-97d7-40ad-aed4-7704c123e9df"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
     (path "/5796d21e-c689-47f8-a795-b681878fc3f0/1d6b2a96-dd6d-4a75-9586-733fd6f3254b"
       (reference "SW?") (unit 1) (value "SW_SPST") (footprint "")
     )
@@ -3015,6 +3043,9 @@
     (path "/5796d21e-c689-47f8-a795-b681878fc3f0/a1b098d4-3f9b-40db-9262-df3a76e030d3"
       (reference "SW?") (unit 1) (value "SW_SPST") (footprint "")
     )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/ab33547f-2b9f-4764-a62a-4a7614c1f186"
+      (reference "SW?") (unit 1) (value "SW_SPDT") (footprint "")
+    )
     (path "/5796d21e-c689-47f8-a795-b681878fc3f0/c1ed7e49-83c7-4caa-b494-15411e384ee9"
       (reference "SW?") (unit 1) (value "SW_SPST") (footprint "")
     )
@@ -3035,6 +3066,12 @@
     )
     (path "/262cdc52-6401-4bb3-8d5f-c46b612bd77a/4959e9d8-e2fa-409d-9377-5b188ba05792"
       (reference "U1") (unit 1) (value "Arduino_Pro_Micro_USB-C") (footprint "Custom_MCU:Arduino_Pro_Micro_USB-C_CleanFront")
+    )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/c7a9a4fb-0cd3-4d11-a41a-1d8727accfbd"
+      (reference "U?") (unit 1) (value "74LS00") (footprint "")
+    )
+    (path "/023a82a5-dc98-40ff-97a4-4af55166cbb8/03bef755-1605-44bc-85a1-b8d4e201a7cd"
+      (reference "U?") (unit 2) (value "74LS00") (footprint "")
     )
   )
 )
